@@ -5,16 +5,20 @@ from selenium.webdriver.support import expected_conditions as EC
 
 import time
 import multiprocessing
+import random
 multiprocessing.set_start_method('spawn', True)
 
-header = 'name,price,location_date,km,state\n'
+header = 'name,price,location_date,km,state,url\n'
 url = 'https://www.olx.ro/auto-masini-moto-ambarcatiuni/autoturisme'
 
 
 class MyDict(dict):
+    def get_attribute(self, s):
+        return "error getting " + s
+
     @property
     def text(self):
-        return self['text']
+        return "NOT SPECIFIED"
 
 
 def findElement(parent, child, attribute=None, value=None, wait=False):
@@ -29,7 +33,7 @@ def findElement(parent, child, attribute=None, value=None, wait=False):
             WebDriverWait(parent, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, str)))
         a = parent.find_element(By.CSS_SELECTOR, str)
     except:
-        a = MyDict({'text': "NOT SPECIFIED"})
+        a = MyDict()
 
     return a
 
@@ -53,7 +57,7 @@ def writeToFile(str):
 
 
 def getProducts(new_driver):
-    return findElements(new_driver, 'div', 'class', 'css-qfzx1y')
+    return findElements(new_driver, 'div', 'data-cy', 'l-card')
 
 
 def getValuesFromProducts(product):
@@ -63,8 +67,10 @@ def getValuesFromProducts(product):
     location_date = findElement(product, 'p', 'data-testid', 'location-date').text.replace(',', ' - ')
     km = findElement(product, 'div', 'class', 'css-efx9z5').text.replace(',', ' - ')
     state = findElement(product, 'span', 'class', 'css-3lkihg').text.replace(',', ' - ')
+    href = findElement(product, 'a').get_attribute('href')
+    print(href)
 
-    return name, price, location_date, km, state
+    return name, price, location_date, km, state, href
 
 
 def scanForProducts(products_count, data, new_url, new_driver, new_wait):
@@ -76,8 +82,8 @@ def scanForProducts(products_count, data, new_url, new_driver, new_wait):
         for product in getProducts(new_driver):
             if products_count <= product_nr:
                 return data
-            name, price, location_date, km, state = getValuesFromProducts(product)
-            data += name + ',' + price + ',' + location_date + ',' + km + ',' + state + '\n'
+            name, price, location_date, km, state, href = getValuesFromProducts(product)
+            data += name + ',' + price + ',' + location_date + ',' + km + ',' + state + ',' + href + '\n'
             product_nr += 1
 
         if products_count <= product_nr:
@@ -106,13 +112,25 @@ def get_data(halved_city_list):
     data = ""
 
     for city in halved_city_list:
-        new_url = url + '/' + city.replace(' ', '-').lower()
-        new_driver.get(new_url)
-        products_count = getProductsCount(new_driver)
-        print(city, "are", products_count, "produse")
+        def run_loop(data, i=0):
+            new_url = url + '/' + city.replace(' ', '-').lower()
+            new_driver.get(new_url)
 
-        data = scanForProducts(products_count, data, new_url, new_driver, new_wait)
+            try:
+                products_count = getProductsCount(new_driver)
+                print(city, "are", products_count, "produse")
+                time.sleep(random.uniform(0.5, 2))
 
+                data = scanForProducts(products_count, data, new_url, new_driver, new_wait)
+                return data
+
+            except:
+                time.sleep(10+i)
+                run_loop(data, i+10)
+
+        data = run_loop(data)
+
+    new_driver.quit()
     return data
 
 
@@ -130,14 +148,15 @@ if __name__ == '__main__':
 
     region_max = len(findElements(driver, 'li', 'data-cy', 'regions-item', True))
     city_list = []
+    #city_list = ["Bucuresti", "Focsani", "Braila", "Brasov"]
 
     for region_count in range(0, region_max):
         region = findElements(driver, 'li', 'data-cy', 'regions-item', True)[region_count]
         region.click()
         cities = findElements(driver, 'li', 'data-cy', 'city-item', True)
 
-        for city in cities:
-            city_list.append(city.text)
+        for city_name in cities:
+            city_list.append(city_name.text)
 
         findElement(driver, 'button', 'data-cy', 'cities-back-button').click()
 
