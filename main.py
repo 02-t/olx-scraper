@@ -7,6 +7,9 @@ import time
 import multiprocessing
 multiprocessing.set_start_method('spawn', True)
 
+header = 'name,price,location_date,km,state\n'
+url = 'https://www.olx.ro/auto-masini-moto-ambarcatiuni/autoturisme'
+
 
 class MyDict(dict):
     @property
@@ -103,7 +106,7 @@ def get_data(halved_city_list):
     data = ""
 
     for city in halved_city_list:
-        new_url = 'https://www.olx.ro/auto-masini-moto-ambarcatiuni/autoturisme/' + city.replace(' ', '-').lower()
+        new_url = url + '/' + city.replace(' ', '-').lower()
         new_driver.get(new_url)
         products_count = getProductsCount(new_driver)
         print(city, "are", products_count, "produse")
@@ -114,9 +117,6 @@ def get_data(halved_city_list):
 
 
 if __name__ == '__main__':
-    header = 'name,price,location_date,km,state\n'
-    url = 'https://www.olx.ro/auto-masini-moto-ambarcatiuni/autoturisme'
-
     driver = webdriver.Firefox()
     driver.get(url)
 
@@ -129,11 +129,8 @@ if __name__ == '__main__':
     findElement(driver, 'input', 'class', 'css-uvldze', True).click()
 
     region_max = len(findElements(driver, 'li', 'data-cy', 'regions-item', True))
-    #city_list = []
-    city_list = ["Braila", "Brasov", "Focsani", "Bucuresti"]
+    city_list = []
 
-
-    """
     for region_count in range(0, region_max):
         region = findElements(driver, 'li', 'data-cy', 'regions-item', True)[region_count]
         region.click()
@@ -143,11 +140,10 @@ if __name__ == '__main__':
             city_list.append(city.text)
 
         findElement(driver, 'button', 'data-cy', 'cities-back-button').click()
-    """
 
     city_count = len(city_list)
-    n = city_count // 4  # number of elements in each subarray
-    remainder = city_count % 4  # remainder elements if any
+    n = city_count // 4
+    remainder = city_count % 4
 
     city_lists = []
     start = 0
