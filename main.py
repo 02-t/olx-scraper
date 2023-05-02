@@ -1,3 +1,5 @@
+city_list = ["Bucuresti", "Focsani", "Braila", "Brasov"]
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -135,6 +137,12 @@ def get_data(halved_city_list):
 
 
 if __name__ == '__main__':
+    print("OLX web scraper and data extractor by 02-t")
+    print("-\n-\n-\nPress 1 to scan the whole site\nPress 2 to scan only selected cities\n")
+    choice = input("Your choice: ")
+
+    print("Opening firefox...")
+
     driver = webdriver.Firefox()
     driver.get(url)
 
@@ -147,18 +155,19 @@ if __name__ == '__main__':
     findElement(driver, 'input', 'class', 'css-uvldze', True).click()
 
     region_max = len(findElements(driver, 'li', 'data-cy', 'regions-item', True))
-    city_list = []
-    #city_list = ["Bucuresti", "Focsani", "Braila", "Brasov"]
 
-    for region_count in range(0, region_max):
-        region = findElements(driver, 'li', 'data-cy', 'regions-item', True)[region_count]
-        region.click()
-        cities = findElements(driver, 'li', 'data-cy', 'city-item', True)
+    if choice == '1':
+        print("Getting all city names...")
+        city_list = []
+        for region_count in range(0, region_max):
+            region = findElements(driver, 'li', 'data-cy', 'regions-item', True)[region_count]
+            region.click()
+            cities = findElements(driver, 'li', 'data-cy', 'city-item', True)
 
-        for city_name in cities:
-            city_list.append(city_name.text)
+            for city_name in cities:
+                city_list.append(city_name.text)
 
-        findElement(driver, 'button', 'data-cy', 'cities-back-button').click()
+            findElement(driver, 'button', 'data-cy', 'cities-back-button').click()
 
     city_count = len(city_list)
     n = city_count // 4
@@ -177,12 +186,12 @@ if __name__ == '__main__':
 
     driver.quit()
 
-    print("Sunt", city_count, "orase gasite, timp estimat de finisare", city_count*2.5/60/60, 'ore')
+    print(city_count, "cities found, estimated time until finish ", city_count*5/60, 'minutes')
 
     with multiprocessing.Pool(processes=4) as pool:
         results = pool.map(get_data, [city_lists[0], city_lists[1], city_lists[2], city_lists[3]])
 
-    print("\n\n\n\n\nSCRIPT ENDED - olx web scraper by 02-t\n\n\n\n\n")
+    print("\n\nRecords have been registered to output.csv, if you want to get more data please run read_csv.py")
 
     header += results[0] + results[1] + results[2] + results[3]
 
