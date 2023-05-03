@@ -4,7 +4,6 @@ import random
 from bs4 import BeautifulSoup
 
 f = open('output.csv', 'r', encoding='utf-8')
-test = open('test.txt', 'w', encoding='utf-8')
 
 header = "model,production year,motor capacity,power,fuel,km driven,color,state,gearbox,driver hand,price"
 keywords = ["Model:", "An de fabricatie:", "Capacitate motor:", "Putere:", "Combustibil:", "Rulaj:", "Culoare:", "Stare:", "Cutie de viteze:", "Volan:"]
@@ -72,7 +71,6 @@ def getDataFromUrl(page_url, price):
         time_interval += 5
         response = requests.get(page_url)
         soup = BeautifulSoup(response.text, "html.parser")
-        test.write(soup.prettify())
         data = getDataOlx(soup)
 
     return '\n' + data + parseValue(price)
