@@ -8,6 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import multiprocessing
 import random
+import read_csv
 multiprocessing.set_start_method('spawn', True)
 
 header = 'name,price,location_date,km,state,url\n'
@@ -20,7 +21,7 @@ class MyDict(dict):
 
     @property
     def text(self):
-        return "NOT SPECIFIED"
+        return "-"
 
 
 def findElement(parent, child, attribute=None, value=None, wait=False):
@@ -138,8 +139,16 @@ def get_data(halved_city_list):
 
 if __name__ == '__main__':
     print("OLX web scraper and data extractor by 02-t")
-    print("-\n-\n-\nPress 1 to scan the whole site\nPress 2 to scan only selected cities\n")
+    print("-\n-\n-\nPress 1 to scan the whole site for entries\n"
+          "Press 2 to scan only selected cities for entries\n"
+          "Press 3 to get data from the scraped entries\n")
     choice = input("Your choice: ")
+
+    if choice == '3':
+        print("Extracting the data... extracted data will be saved in data.csv")
+        read_csv.startScript()
+        print("Finished! All data has been saved to data.csv")
+        exit()
 
     print("Opening firefox...")
 
@@ -191,7 +200,8 @@ if __name__ == '__main__':
     with multiprocessing.Pool(processes=4) as pool:
         results = pool.map(get_data, [city_lists[0], city_lists[1], city_lists[2], city_lists[3]])
 
-    print("\n\nRecords have been registered to output.csv, if you want to get more data please run read_csv.py")
+    print("\n\nEntries have been save to output.csv, "
+          "if you want to extract more data from the entries please rerun with option 3")
 
     header += results[0] + results[1] + results[2] + results[3]
 

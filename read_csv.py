@@ -44,7 +44,7 @@ def getDataOlx(page):
     extracted_data = ''
 
     for keyword in keywords:
-        value = "NOT SPECIFIED"
+        value = "-"
 
         for element in list:
             data = element.text.split(keyword)
@@ -60,10 +60,10 @@ def getDataOlx(page):
 
 def getDataFromUrl(page_url, price):
     print(page_url)
-    data = "NOT SPECIFIED"
+    data = "-"
     time_interval = 0
 
-    while data.split(',')[0] == "NOT SPECIFIED":
+    while data.split(',')[0] == "-":
         if time_interval > 1:
             return ''
         time.sleep(time_interval)

@@ -10,7 +10,7 @@ Forester,2003,1995,175,Benzina,200000,Gri,used,auto,left-side drive,3950
 Clasa CLA,2013,2200,170,Diesel,215000,Gri,used,auto,left-side drive,13500
 A5,2013,1968,170,Benzina,209610,Gri,used,manual,left-side drive,13328
 A6,2007,1950,136,Diesel,244000,Albastru,used,manual,left-side drive,5499
-Logan,2013,1200,NOT SPECIFIED,GPL,220000,Alb,used,manual,left-side drive,4500
+Logan,2013,1200,-,GPL,220000,Alb,used,manual,left-side drive,4500
 Seria 6,2012,2996,313,Diesel,261000,Albastru,used,auto,left-side drive,22000
 Land Cruiser,2006,3000,166,Diesel,265200,Gri,used,manual,left-side drive,11100
 Clasa GLC,2016,2143,170,Diesel,104000,Alb,used,auto,left-side drive,27499
@@ -27,84 +27,84 @@ Clasa S,2018,2925,340,Diesel,84140,Negru,used,auto,left-side drive,51500
 Octavia,2018,1596,116,Diesel,146800,Galben / Auriu,used,auto,left-side drive,15300
 Sportage,2013,1995,183,Diesel,75000,Maro / Bej,used,manual,left-side drive,13450
 Meriva,2012,1300,105,Diesel,200000,Albastru,used,manual,left-side drive,4300
-Mondeo,2014,1997,NOT SPECIFIED,NOT SPECIFIED,128000,Albastru,used,manual,left-side drive,9350
+Mondeo,2014,1997,-,-,128000,Albastru,used,manual,left-side drive,9350
 C3,2013,2198,140,Diesel,204000,Alb,used,manual,left-side drive,6300
 Logan Stepway,2020,1000,100,Benzina,106598,Gri,used,manual,left-side drive,9300
-Golf,2011,1598,NOT SPECIFIED,Diesel,244257,Gri,used,manual,left-side drive,5000
-Focus,2014,998,125,Benzina,194623,Gri,NOT SPECIFIED,manual,left-side drive,6291
+Golf,2011,1598,-,Diesel,244257,Gri,used,manual,left-side drive,5000
+Focus,2014,998,125,Benzina,194623,Gri,-,manual,left-side drive,6291
 Fiesta,2009,1600,100,Diesel,190000,Alb,used,manual,left-side drive,4300
 Levante,2017,2987,275,Diesel,71000,Gri,used,auto,left-side drive,38000
 Octavia,2007,1968,140,Diesel,225800,Negru,used,manual,left-side drive,4500
 X3,2013,2000,184,Diesel,261000,Negru,used,auto,left-side drive,14570
 6,2003,2000,143,Diesel,241000,Gri,used,manual,left-side drive,2000
-Range Rover Evoque,2020,2000,180,Diesel,65000,Maro / Bej,used,auto,NOT SPECIFIED,38500
+Range Rover Evoque,2020,2000,180,Diesel,65000,Maro / Bej,used,auto,-,38500
 Logan,2018,1461,75,Diesel,165000,Alb,used,manual,left-side drive,5700
-X3,2018,1998,NOT SPECIFIED,Benzina,70000,Albastru,used,auto,left-side drive,28000
+X3,2018,1998,-,Benzina,70000,Albastru,used,auto,left-side drive,28000
 Cayenne,2017,2967,262,Diesel,127000,Negru,used,auto,left-side drive,40000
 Freelander,2007,2200,160,Diesel,214000,Galben / Auriu,used,manual,left-side drive,5200
-Prius,2008,1497,111,Hibrid,NOT SPECIFIED,Gri,used,auto,left-side drive,4900
+Prius,2008,1497,111,Hibrid,-,Gri,used,auto,left-side drive,4900
 Insignia,2011,1800,140,Benzina,175052,Alb,used,manual,left-side drive,6900
 Outlander,2020,2400,224,Hibrid,46000,Alb,used,auto,left-side drive,29025
 Octavia,2008,1896,105,Diesel,345900,Gri,used,manual,left-side drive,2900
 Aygo,2015,1000,70,Benzina,80000,Alb,used,manual,left-side drive,6499
-i20,2017,1248,84,Benzina,119000,Alb,NOT SPECIFIED,manual,left-side drive,7199
-Polo,2013,1200,70,Benzina,151200,Argintiu,used,manual,NOT SPECIFIED,6390
-Golf,2010,1598,120,Diesel,208000,Negru,NOT SPECIFIED,auto,left-side drive,7899
+i20,2017,1248,84,Benzina,119000,Alb,-,manual,left-side drive,7199
+Polo,2013,1200,70,Benzina,151200,Argintiu,used,manual,-,6390
+Golf,2010,1598,120,Diesel,208000,Negru,-,auto,left-side drive,7899
 XE,2016,2995,340,Benzina,127000,Albastru,used,auto,left-side drive,20000
-Seria 3,2008,3000,286,Diesel,230000,NOT SPECIFIED,used,auto,left-side drive,11500
+Seria 3,2008,3000,286,Diesel,230000,-,used,auto,left-side drive,11500
 A7,2015,2967,272,Diesel,68500,Argintiu,used,auto,left-side drive,30000
 Logan,2010,1600,105,Benzina,291434,Gri,used,manual,left-side drive,2399
 Seria 3,2010,2000,167,Benzina,208000,Gri,used,auto,left-side drive,6800
 9-3,2010,1998,195,Benzina,137546,Negru,used,manual,left-side drive,10899
 Seria 5,2017,2500,218,Diesel,240000,Gri,used,auto,left-side drive,15000
 Seria 7,2014,2993,313,Diesel,187583,Albastru,used,auto,left-side drive,19990
-Logan,2011,1149,NOT SPECIFIED,Benzina,145000,Rosu,used,manual,left-side drive,3500
+Logan,2011,1149,-,Benzina,145000,Rosu,used,manual,left-side drive,3500
 X1,2012,2000,184,Diesel,240000,Negru,used,auto,left-side drive,11900
 Octavia,2018,1600,115,Diesel,182000,Gri,used,manual,left-side drive,12700
 Q7,2017,2998,272,Diesel,162000,Negru,used,auto,left-side drive,34800
-Fiesta,2017,999,100,NOT SPECIFIED,64000,Maro / Bej,used,manual,left-side drive,8500
+Fiesta,2017,999,100,-,64000,Maro / Bej,used,manual,left-side drive,8500
 Corsa,2007,1229,85,Benzina,147618,Albastru,used,manual,left-side drive,3500
 i20,2019,1248,84,Benzina,19500,Gri,used,manual,left-side drive,10400
 Lodgy,2019,1500,95,Diesel,49000,Alb,used,manual,left-side drive,12900
-Vivaro,2015,1600,NOT SPECIFIED,NOT SPECIFIED,134000,Alb,used,manual,NOT SPECIFIED,10500
-altul,2018,1600,NOT SPECIFIED,Hibrid,NOT SPECIFIED,Negru,used,auto,left-side drive,14500
-Corsa,2015,1200,NOT SPECIFIED,Benzina,134000,Alb,used,manual,left-side drive,5350
-Golf,2002,1600,NOT SPECIFIED,Benzina,NOT SPECIFIED,Argintiu,NOT SPECIFIED,NOT SPECIFIED,left-side drive,750
-Clasa GLE,2020,2925,272,Diesel,75000,Gri,used,auto,NOT SPECIFIED,62500
+Vivaro,2015,1600,-,-,134000,Alb,used,manual,-,10500
+altul,2018,1600,-,Hibrid,-,Negru,used,auto,left-side drive,14500
+Corsa,2015,1200,-,Benzina,134000,Alb,used,manual,left-side drive,5350
+Golf,2002,1600,-,Benzina,-,Argintiu,-,-,left-side drive,750
+Clasa GLE,2020,2925,272,Diesel,75000,Gri,used,auto,-,62500
 Octavia,2016,1598,110,Diesel,305000,Negru,used,manual,left-side drive,8900
 Sandero Stepway,2017,898,90,Benzina,104000,Rosu,used,manual,left-side drive,8990
-Clasa E,2015,2143,NOT SPECIFIED,Diesel,171000,NOT SPECIFIED,used,auto,left-side drive,14900
+Clasa E,2015,2143,-,Diesel,171000,-,used,auto,left-side drive,14900
 A3,2005,1600,105,Benzina,200000,Negru,used,manual,left-side drive,3000
 Passat,2002,1890,131,Diesel,219000,Verde,used,manual,left-side drive,2000
 Octavia,2018,1598,115,Diesel,198500,Gri,used,manual,left-side drive,12000
 Octavia,2016,1598,115,Diesel,189000,Gri,used,auto,left-side drive,8900
 Auris,2010,1598,97,Benzina,126000,Gri,used,auto,right-side drive,3200
 RX-8,2007,1308,200,Benzina,83348,Gri,used,manual,left-side drive,7700
-Octavia,2021,1968,NOT SPECIFIED,Diesel,44500,Gri,used,auto,left-side drive,37000
+Octavia,2021,1968,-,Diesel,44500,Gri,used,auto,left-side drive,37000
 Viano,2013,2200,163,Diesel,295000,Alb,used,auto,left-side drive,17499
-Atos,2002,900,NOT SPECIFIED,Benzina,141000,Gri,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,2150
-Kona,2022,NOT SPECIFIED,204,Electric,13233,Maro / Bej,used,auto,left-side drive,31900
+Atos,2002,900,-,Benzina,141000,Gri,-,-,-,2150
+Kona,2022,-,204,Electric,13233,Maro / Bej,used,auto,left-side drive,31900
 Cherokee,2015,1995,170,Diesel,242000,Verde,used,auto,left-side drive,17200
-Seria 5,2013,1997,184,Benzina,189000,Negru,NOT SPECIFIED,auto,left-side drive,12900
+Seria 5,2013,1997,184,Benzina,189000,Negru,-,auto,left-side drive,12900
 Fabia,2008,1390,81,Benzina,265000,Gri,used,manual,left-side drive,2699
-Focus,2017,999,125,Benzina,66600,NOT SPECIFIED,used,manual,left-side drive,13500
-Passat,2014,1968,140,Diesel,221000,Maro / Bej,used,manual,NOT SPECIFIED,9200
+Focus,2017,999,125,Benzina,66600,-,used,manual,left-side drive,13500
+Passat,2014,1968,140,Diesel,221000,Maro / Bej,used,manual,-,9200
 Swift,2013,1586,136,Benzina,92700,Gri,used,manual,left-side drive,8700
 A4,2011,1968,143,Diesel,328761,Negru,used,manual,left-side drive,7300
-Seria 7,2016,4395,450,Benzina,110,Maro / Bej,new,auto,NOT SPECIFIED,39500
-9-3,2008,1910,120,Diesel,178355,NOT SPECIFIED,used,manual,left-side drive,4950
+Seria 7,2016,4395,450,Benzina,110,Maro / Bej,new,auto,-,39500
+9-3,2008,1910,120,Diesel,178355,-,used,manual,left-side drive,4950
 A4,2012,2000,143,Diesel,327000,Maro / Bej,used,auto,left-side drive,7200
 Crossland,2019,1199,110,Benzina,48000,Albastru,used,manual,left-side drive,13500
 A5,2017,3000,217,Diesel,180000,Rosu,used,auto,left-side drive,28750
 Elantra,2017,1595,136,Diesel,133000,Albastru,used,manual,left-side drive,11900
-Golf,2008,1896,NOT SPECIFIED,Diesel,147000,Gri,used,manual,left-side drive,3350
+Golf,2008,1896,-,Diesel,147000,Gri,used,manual,left-side drive,3350
 Octavia,2010,1390,122,Benzina,190000,Gri,used,manual,left-side drive,5990
 A4 Allroad,2007,3200,250,Benzina,90000,Albastru,used,auto,left-side drive,7900
-Seria 5,2011,NOT SPECIFIED,NOT SPECIFIED,Diesel,264,Maro / Bej,used,auto,left-side drive,8800
-S4,2010,2996,470,Benzina,152800,NOT SPECIFIED,used,auto,left-side drive,15500
+Seria 5,2011,-,-,Diesel,264,Maro / Bej,used,auto,left-side drive,8800
+S4,2010,2996,470,Benzina,152800,-,used,auto,left-side drive,15500
 A5,2011,2000,170,Diesel,228000,Gri,used,manual,left-side drive,10500
 Clasa GL,2014,2987,258,Diesel,199999,Gri,used,auto,left-side drive,28500
-i20,2019,1248,84,Benzina,NOT SPECIFIED,Albastru,used,manual,left-side drive,8500
+i20,2019,1248,84,Benzina,-,Albastru,used,manual,left-side drive,8500
 Avensis,2007,1998,126,Diesel,299442,Gri,used,manual,left-side drive,3550
 Dokker,2020,1500,75,Diesel,57000,Alb,used,manual,left-side drive,10900
 Qashqai,2015,1197,116,Benzina,15200,Alb,used,manual,left-side drive,13990
@@ -113,29 +113,29 @@ Gallardo,2012,5204,570,Benzina,50000,Galben / Auriu,used,auto,left-side drive,13
 Focus,2010,1560,109,Diesel,230000,Alb,used,manual,left-side drive,2900
 Seria 3,2012,1997,184,Diesel,202656,Albastru,used,auto,left-side drive,15000
 A5,2013,1995,177,Diesel,290000,Gri,used,manual,left-side drive,13199
-Leon,2006,1995,148,Diesel,283000,Negru,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,3900
+Leon,2006,1995,148,Diesel,283000,Negru,-,-,-,3900
 Sandero,2020,999,73,Benzina,47000,Maro / Bej,used,manual,left-side drive,8500
-Clasa C,2012,2148,170,Diesel,149600,Gri,used,auto,NOT SPECIFIED,13990
+Clasa C,2012,2148,170,Diesel,149600,Gri,used,auto,-,13990
 Cherokee,2015,2987,250,Diesel,120000,Albastru,used,auto,left-side drive,22100
-Focus,2017,NOT SPECIFIED,120,Diesel,90000,Alb,used,manual,left-side drive,9500
-Fluence,2010,1461,90,Diesel,238000,NOT SPECIFIED,used,manual,left-side drive,3850
-altul,2016,2993,272,Diesel,205500,Negru,NOT SPECIFIED,auto,left-side drive,25300
+Focus,2017,-,120,Diesel,90000,Alb,used,manual,left-side drive,9500
+Fluence,2010,1461,90,Diesel,238000,-,used,manual,left-side drive,3850
+altul,2016,2993,272,Diesel,205500,Negru,-,auto,left-side drive,25300
 Grand Scenic,2017,1461,110,Diesel,196000,Negru,used,manual,left-side drive,12900
 Laguna,2014,1995,175,Diesel,232000,Alb,used,auto,left-side drive,6650
 V,2017,2143,190,Diesel,168000,Alb,used,auto,left-side drive,44900
-1100,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,2000
-Golf,2003,1600,105,Benzina,NOT SPECIFIED,Alta culoare,used,manual,left-side drive,1100
+1100,-,-,-,-,-,-,-,-,-,2000
+Golf,2003,1600,105,Benzina,-,Alta culoare,used,manual,left-side drive,1100
 Seria 3,1983,2300,150,Benzina,140000,Gri,used,manual,left-side drive,10500
 Passat CC,2013,1800,160,Benzina,225000,Gri,used,auto,left-side drive,11950
-A4,2017,1968,190,Diesel,179000,Negru,used,auto,NOT SPECIFIED,17950
+A4,2017,1968,190,Diesel,179000,Negru,used,auto,-,17950
 Golf,2015,1958,184,Diesel,199000,Alb,used,auto,left-side drive,12850
 Octavia,2018,1598,115,Diesel,198500,Gri,used,manual,left-side drive,12000
-RAPID,2014,1600,105,Diesel,NOT SPECIFIED,NOT SPECIFIED,used,manual,left-side drive,3990
-Seria 3,1998,1700,NOT SPECIFIED,Diesel,180000,Alb,NOT SPECIFIED,manual,left-side drive,1100
+RAPID,2014,1600,105,Diesel,-,-,used,manual,left-side drive,3990
+Seria 3,1998,1700,-,Diesel,180000,Alb,-,manual,left-side drive,1100
 Superb,2018,1968,150,Diesel,214000,Alb,used,manual,left-side drive,18500
-Seria 3,2007,1995,NOT SPECIFIED,Benzina,182150,Albastru,NOT SPECIFIED,manual,left-side drive,3000
+Seria 3,2007,1995,-,Benzina,182150,Albastru,-,manual,left-side drive,3000
 Agila,2013,1242,94,Benzina,269600,Argintiu,used,manual,left-side drive,3990
-RAPID,2016,1600,115,Diesel,NOT SPECIFIED,Alb,used,manual,left-side drive,6500
+RAPID,2016,1600,115,Diesel,-,Alb,used,manual,left-side drive,6500
 Mondeo,2014,1997,151,Diesel,291000,Alb,used,manual,left-side drive,8200
 Talisman,2018,1600,160,Diesel,176000,Maro / Bej,used,auto,left-side drive,12900
 Logan,2017,999,75,Benzina,25800,Galben / Auriu,used,manual,left-side drive,7650
@@ -143,29 +143,29 @@ Seria 5,2018,1995,190,Diesel,97318,Alb,used,auto,left-side drive,27730
 Seria 1,2019,1499,136,Benzina,48100,Gri,used,auto,left-side drive,17590
 Astra,2012,1598,116,GPL,233000,Argintiu,used,manual,left-side drive,5277
 Jetta,2013,1600,105,Diesel,285000,Gri,used,auto,left-side drive,7990
-Aygo,2011,1000,NOT SPECIFIED,Benzina,150000,Alb,used,manual,left-side drive,2850
+Aygo,2011,1000,-,Benzina,150000,Alb,used,manual,left-side drive,2850
 Octavia,2017,1600,115,Diesel,334000,Gri,used,manual,left-side drive,8500
 Focus,2015,1499,120,Diesel,260651,Gri,used,manual,left-side drive,7900
-206,2007,1400,NOT SPECIFIED,Diesel,174000,Gri,used,manual,left-side drive,1500
+206,2007,1400,-,Diesel,174000,Gri,used,manual,left-side drive,1500
 Seria 5,2012,1995,218,Diesel,277000,Negru,used,auto,left-side drive,12500
 Sandero Stepway,2015,900,90,Benzina,159000,Alb,used,manual,left-side drive,6690
 Insignia,2010,2000,160,Diesel,224000,Gri,used,auto,left-side drive,4190
 Range Rover,2007,3600,272,Diesel,220000,Albastru,used,auto,left-side drive,8200
 Fabia,2011,1197,86,Benzina,260000,Verde,used,manual,left-side drive,4200
 Clasa E,2018,1950,194,Diesel,60000,Gri,used,auto,left-side drive,35800
-Seria 3,2007,1996,NOT SPECIFIED,Benzina,90000,NOT SPECIFIED,used,auto,left-side drive,6500
+Seria 3,2007,1996,-,Benzina,90000,-,used,auto,left-side drive,6500
 Grand Cherokee,2009,2987,211,Diesel,223000,Negru,used,auto,left-side drive,6500
 Passat CC,2014,1968,177,Diesel,134000,Negru,used,auto,left-side drive,11999
 Kuga,2016,2000,150,Diesel,186000,Gri,used,manual,left-side drive,13600
-Fabia,2005,1398,NOT SPECIFIED,Benzina,181000,NOT SPECIFIED,used,manual,left-side drive,1218
+Fabia,2005,1398,-,Benzina,181000,-,used,manual,left-side drive,1218
 Insignia,2013,2000,194,Diesel,183881,Negru,used,manual,left-side drive,6500
-S40,2005,1997,NOT SPECIFIED,Diesel,263000,Negru,used,manual,left-side drive,2500
+S40,2005,1997,-,Diesel,263000,Negru,used,manual,left-side drive,2500
 Seria 7,2017,1998,358,Hibrid,124300,Gri,used,auto,left-side drive,43485
 Polo,2018,999,75,Benzina,125000,Albastru,used,manual,left-side drive,8400
 Seria 4,2018,1995,184,Benzina,164000,Albastru,used,auto,left-side drive,19999
 Clasa S,2017,3982,462,Benzina,98353,Negru,used,auto,left-side drive,75000
-Transit,2001,2000,74,Diesel,330000,NOT SPECIFIED,used,manual,left-side drive,1827
-Dokker,2015,1600,NOT SPECIFIED,Benzina,195000,NOT SPECIFIED,used,manual,left-side drive,3750
+Transit,2001,2000,74,Diesel,330000,-,used,manual,left-side drive,1827
+Dokker,2015,1600,-,Benzina,195000,-,used,manual,left-side drive,3750
 Mondeo,2015,1598,116,Diesel,157000,Gri,used,manual,left-side drive,9500
 Focus,2013,1000,125,Benzina,181500,Gri,used,manual,left-side drive,6298
 Q7,2013,2998,245,Diesel,250000,Negru,used,auto,left-side drive,16200
@@ -179,14 +179,14 @@ Touareg,2012,2967,245,Diesel,269380,Gri,used,auto,left-side drive,16200
 Focus,2018,1500,120,Diesel,199000,Verde,used,manual,left-side drive,7149
 A4,2007,1968,140,Diesel,304000,Gri,used,manual,left-side drive,3750
 Fabia,2012,1600,75,Diesel,159500,Alb,used,manual,left-side drive,4300
-X1,2013,1995,143,NOT SPECIFIED,129000,Negru,used,auto,left-side drive,11999
+X1,2013,1995,143,-,129000,Negru,used,auto,left-side drive,11999
 Astra,2009,1900,120,Diesel,200000,Gri,used,manual,left-side drive,2900
 X6,2015,2993,381,Diesel,169500,Negru,used,auto,left-side drive,34950
 Clasa CLC,2008,2148,122,Diesel,277000,Negru,used,manual,left-side drive,6300
 Seria 7,2011,3000,284,Diesel,320000,Negru,used,auto,left-side drive,10500
 X5,2014,2000,218,Diesel,230000,Negru,used,auto,left-side drive,23000
-Clasa GLK,2012,2140,204,Diesel,195700,NOT SPECIFIED,used,auto,left-side drive,14400
-Logan,2009,1400,75,NOT SPECIFIED,145,Rosu,used,manual,left-side drive,2900
+Clasa GLK,2012,2140,204,Diesel,195700,-,used,auto,left-side drive,14400
+Logan,2009,1400,75,-,145,Rosu,used,manual,left-side drive,2900
 Kadjar,2019,1332,160,Benzina,13500,Rosu,used,manual,left-side drive,17399
 Seria 5,2012,1947,184,Diesel,243500,Maro / Bej,used,manual,left-side drive,10650
 A5,2011,1968,143,Diesel,263000,Negru,used,auto,left-side drive,11250
@@ -194,11 +194,11 @@ Logan,2005,1390,55,Benzina,15000,Rosu,new,manual,left-side drive,1999
 Ioniq,2017,1598,141,Hibrid,139000,Negru,used,auto,left-side drive,15990
 Astra,2015,1598,140,Diesel,188000,Alb,used,manual,left-side drive,7200
 Seria ES,2019,2459,225,Hibrid,86000,Gri,used,auto,left-side drive,39990
-Grand-Prix,2007,3700,NOT SPECIFIED,Benzina,NOT SPECIFIED,NOT SPECIFIED,used,auto,left-side drive,4990
+Grand-Prix,2007,3700,-,Benzina,-,-,used,auto,left-side drive,4990
 Megane,2003,1990,130,GPL,164000,Negru,used,manual,left-side drive,1200
-Discovery Sport,2015,2178,NOT SPECIFIED,Diesel,250000,Negru,used,auto,left-side drive,18200
+Discovery Sport,2015,2178,-,Diesel,250000,Negru,used,auto,left-side drive,18200
 Octavia,2017,1600,110,Diesel,135100,Albastru,used,manual,left-side drive,8250
-CTS,2014,2999,NOT SPECIFIED,Benzina,NOT SPECIFIED,Negru,used,auto,left-side drive,15000
+CTS,2014,2999,-,Benzina,-,Negru,used,auto,left-side drive,15000
 Seria 2,2020,1499,140,Benzina,72696,Albastru,used,auto,left-side drive,22900
 Leon,2006,1600,80,GPL,230000,Rosu,used,manual,left-side drive,1450
 Clasa C,2002,1800,140,Benzina,220000,Gri,used,manual,left-side drive,1700
@@ -208,12 +208,12 @@ Seria 5,2017,2998,340,Benzina,278000,Negru,used,auto,left-side drive,24700
 XC 60,2014,2000,180,Diesel,206000,Alb,used,auto,left-side drive,17900
 Seria 3,2012,1995,143,Diesel,165000,Rosu,used,auto,left-side drive,13900
 Ceed,2015,1589,204,Benzina,73000,Negru,used,manual,left-side drive,14290
-Spring,2023,NOT SPECIFIED,NOT SPECIFIED,Electric,1,Verde,new,auto,NOT SPECIFIED,13990
+Spring,2023,-,-,Electric,1,Verde,new,auto,-,13990
 Passat,2016,2000,150,Diesel,269000,Gri,used,manual,left-side drive,12000
 6,2005,2261,260,Benzina,199165,Gri,used,manual,left-side drive,7400
 V70,2005,2400,161,Diesel,340000,Galben / Auriu,used,manual,left-side drive,2300
 ASX,2010,1800,150,Diesel,270000,Gri,used,manual,left-side drive,6899
-A5,2013,1798,170,Benzina,182000,Gri,NOT SPECIFIED,auto,left-side drive,13400
+A5,2013,1798,170,Benzina,182000,Gri,-,auto,left-side drive,13400
 XC 60,2018,2000,235,Diesel,190000,Albastru,used,auto,left-side drive,20800
 Logan,2011,1598,65,GPL,250000,Alb,used,manual,left-side drive,2800
 Octavia,2012,1190,105,Benzina,230000,Maro / Bej,used,manual,left-side drive,6500
@@ -230,21 +230,21 @@ Jetta,2014,1600,105,Diesel,291000,Alta culoare,used,manual,left-side drive,8250
 Focus,2013,1600,110,Diesel,226000,Albastru,used,manual,left-side drive,4550
 Octavia,2015,1395,140,Benzina,239,Maro / Bej,used,manual,left-side drive,8650
 Ibiza,2009,1600,90,Diesel,197000,Galben / Auriu,used,manual,left-side drive,4990
-Seria 5,2014,2000,191,NOT SPECIFIED,288000,Negru,NOT SPECIFIED,auto,left-side drive,15499
+Seria 5,2014,2000,191,-,288000,Negru,-,auto,left-side drive,15499
 Master,2016,2299,163,Diesel,427000,Alb,used,manual,left-side drive,11200
 206,2005,1398,75,Diesel,141,Verde,used,manual,left-side drive,934
 Qashqai,2017,1600,130,Diesel,54000,Albastru,used,auto,left-side drive,20700
-GLE Coupe,2016,3000,NOT SPECIFIED,Diesel,200000,Negru,used,auto,left-side drive,42000
+GLE Coupe,2016,3000,-,Diesel,200000,Negru,used,auto,left-side drive,42000
 Octavia,2020,1968,150,Diesel,85944,Gri,used,auto,left-side drive,25900
 Outlander,2015,2212,150,Diesel,199000,Gri,used,manual,left-side drive,9600
 A3,2013,2000,150,Diesel,215000,Argintiu,used,manual,left-side drive,10500
-Touareg,2014,2998,240,Diesel,236000,Gri,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,14790
+Touareg,2014,2998,240,Diesel,236000,Gri,-,-,-,14790
 Seria 7,2012,3000,300,Diesel,219000,Negru,used,auto,right-side drive,7000
 Clio,2010,1400,95,GPL,216000,Alb,used,manual,left-side drive,3099
-Range Rover,2010,2993,NOT SPECIFIED,Diesel,276000,Negru,used,auto,left-side drive,9800
-Qashqai+2,2012,1598,130,Diesel,232000,NOT SPECIFIED,used,manual,left-side drive,7990
-Golf,2009,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,200000,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,4200
-Corsa,2010,1229,85,Benzina,80000,Negru,used,manual,NOT SPECIFIED,4100
+Range Rover,2010,2993,-,Diesel,276000,Negru,used,auto,left-side drive,9800
+Qashqai+2,2012,1598,130,Diesel,232000,-,used,manual,left-side drive,7990
+Golf,2009,-,-,-,200000,-,-,-,-,4200
+Corsa,2010,1229,85,Benzina,80000,Negru,used,manual,-,4100
 X1,2014,1998,184,Diesel,178000,Negru,used,manual,left-side drive,9300
 Seria 1,2016,2000,190,Diesel,227000,Negru,used,auto,left-side drive,12500
 X3,2014,1995,190,Diesel,226700,Negru,used,auto,left-side drive,16700
@@ -253,17 +253,17 @@ Fabia,2004,1390,75,Benzina,295200,Gri,used,manual,left-side drive,2000
 Passat,2012,1968,140,Diesel,251400,Negru,used,auto,left-side drive,9200
 Boxer,2004,2800,110,Diesel,295800,Alb,used,manual,left-side drive,3650
 A4,1997,1595,102,GPL,202974,Argintiu,used,manual,left-side drive,1000
-Clasa S,2018,NOT SPECIFIED,340,Diesel,149000,Negru,new,auto,left-side drive,56500
+Clasa S,2018,-,340,Diesel,149000,Negru,new,auto,left-side drive,56500
 Passat,2006,1896,105,Diesel,206486,Gri,used,manual,left-side drive,3500
 Fabia,2008,1422,70,Diesel,146843,Maro / Bej,used,manual,left-side drive,2950
 308,2008,1600,120,Benzina,97000,Negru,used,manual,left-side drive,2740
-Golf,2009,1968,103,Diesel,209700,Negru,NOT SPECIFIED,manual,NOT SPECIFIED,4100
+Golf,2009,1968,103,Diesel,209700,Negru,-,manual,-,4100
 2,2008,1349,86,Benzina,120,Negru,used,manual,left-side drive,3000
 Tucson,2018,1686,141,Diesel,168000,Negru,used,auto,left-side drive,17350
 Kuga,2019,1500,176,Benzina,62700,Gri,used,auto,left-side drive,21950
 Seria 3,2011,2000,184,Diesel,200000,Negru,used,auto,left-side drive,9450
 Golf,2011,1390,122,Benzina,194000,Gri,used,manual,left-side drive,5500
-Octavia,2016,NOT SPECIFIED,184,Diesel,148000,Gri,new,auto,left-side drive,16500
+Octavia,2016,-,184,Diesel,148000,Gri,new,auto,left-side drive,16500
 Puma,2020,1000,125,Hibrid,27700,Alb,used,manual,left-side drive,17000
 Passat,2013,1600,105,Diesel,255000,Maro / Bej,used,manual,left-side drive,8500
 Q7,2011,2967,245,Diesel,260000,Gri,used,auto,left-side drive,15700
@@ -272,8 +272,8 @@ Vectra,2007,1910,150,Diesel,270000,Negru,used,manual,left-side drive,3500
 Clasa CLS,2006,2997,224,Diesel,295000,Negru,used,auto,left-side drive,5999
 Mustang,2016,2300,317,Benzina,126000,Galben / Auriu,used,auto,left-side drive,20600
 Passat,2008,1893,105,Diesel,249873,Gri,used,manual,left-side drive,6100
-Logan,2010,1400,NOT SPECIFIED,GPL,115000,Argintiu,used,manual,left-side drive,3499
-Logan,2007,1500,75,Diesel,18000,Rosu,new,manual,NOT SPECIFIED,3800
+Logan,2010,1400,-,GPL,115000,Argintiu,used,manual,left-side drive,3499
+Logan,2007,1500,75,Diesel,18000,Rosu,new,manual,-,3800
 Fluence,2011,1498,110,Diesel,368980,Negru,used,manual,left-side drive,2499
 159,2007,2400,210,Diesel,185000,Rosu,used,manual,left-side drive,1449
 Auris,2017,1798,99,Hibrid,92000,Alb,used,auto,left-side drive,15600
@@ -281,24 +281,24 @@ Sportage,2013,1995,136,Diesel,144500,Gri,used,auto,left-side drive,12350
 Octavia,2008,2000,140,Diesel,329000,Rosu,used,manual,left-side drive,4000
 Seria 3,2011,1995,163,Diesel,299999,Negru,used,manual,left-side drive,7700
 Dokker,2020,1500,75,Diesel,57000,Alb,used,manual,left-side drive,10900
-Lodgy,2013,1600,90,NOT SPECIFIED,185000,Gri,used,manual,left-side drive,5700
-Seria 5,2011,2000,218,Diesel,300000,Negru,NOT SPECIFIED,manual,left-side drive,11000
-RAPID,2018,1596,116,Diesel,181123,NOT SPECIFIED,NOT SPECIFIED,manual,left-side drive,10800
+Lodgy,2013,1600,90,-,185000,Gri,used,manual,left-side drive,5700
+Seria 5,2011,2000,218,Diesel,300000,Negru,-,manual,left-side drive,11000
+RAPID,2018,1596,116,Diesel,181123,-,-,manual,left-side drive,10800
 Panamera,2020,2894,330,Benzina,36800,Negru,used,auto,left-side drive,75000
 V40,2013,1560,114,Diesel,252,Maro / Bej,used,manual,left-side drive,10450
 Agila,2001,1200,75,Benzina,104000,Rosu,used,manual,left-side drive,1461
 Golf,2003,1598,101,Benzina,180000,Argintiu,used,manual,left-side drive,1400
 Seria 5,2010,3000,245,Diesel,382000,Gri,used,auto,left-side drive,10500
 Sandero Stepway,2020,999,73,Benzina,15000,Maro / Bej,used,manual,left-side drive,9200
-Macan,2015,2967,258,Diesel,NOT SPECIFIED,NOT SPECIFIED,used,auto,left-side drive,33900
+Macan,2015,2967,258,Diesel,-,-,used,auto,left-side drive,33900
 A4,2007,2000,170,Diesel,182000,Alta culoare,used,manual,left-side drive,5200
 A6,2005,3000,245,Diesel,260000,Albastru,used,auto,left-side drive,4000
-Q7,2007,2967,245,Diesel,256053,Negru,NOT SPECIFIED,auto,left-side drive,7000
+Q7,2007,2967,245,Diesel,256053,Negru,-,auto,left-side drive,7000
 A5,2014,1800,177,Benzina,33300,Maro / Bej,used,auto,left-side drive,20400
-Sandero Stepway,2016,1498,NOT SPECIFIED,Diesel,170000,Albastru,NOT SPECIFIED,manual,left-side drive,6390
+Sandero Stepway,2016,1498,-,Diesel,170000,Albastru,-,manual,left-side drive,6390
 X5,2019,2999,340,Benzina,56800,Negru,used,auto,left-side drive,64300
-Kona,2021,NOT SPECIFIED,204,Electric,12000,Rosu,used,auto,left-side drive,31461
-Vivaro,2015,1600,NOT SPECIFIED,NOT SPECIFIED,134000,Alb,used,manual,NOT SPECIFIED,10500
+Kona,2021,-,204,Electric,12000,Rosu,used,auto,left-side drive,31461
+Vivaro,2015,1600,-,-,134000,Alb,used,manual,-,10500
 Model 3,2020,500,490,Electric,110000,Gri,used,auto,left-side drive,25000
 Fluence,2013,1461,110,Diesel,186000,Gri,used,manual,left-side drive,6300
 Focus,2017,999,100,Benzina,22300,Albastru,used,manual,left-side drive,6800
@@ -306,7 +306,7 @@ Roomster,2011,1197,86,Benzina,179900,Maro / Bej,used,manual,left-side drive,3750
 Mondeo,2012,2179,200,Diesel,225400,Negru,used,manual,left-side drive,7899
 X3 M,2014,1995,190,Diesel,227000,Gri,used,auto,left-side drive,18000
 Avensis,2007,2231,149,Diesel,215000,Negru,used,manual,left-side drive,2400
-Seria 1,2006,1596,NOT SPECIFIED,Benzina,NOT SPECIFIED,NOT SPECIFIED,used,manual,left-side drive,2000
+Seria 1,2006,1596,-,Benzina,-,-,used,manual,left-side drive,2000
 Transit Custom,2013,2200,125,Diesel,270000,Alb,used,manual,left-side drive,12999
 Cherokee,2015,1995,170,Diesel,242000,Verde,used,auto,left-side drive,17200
 X6,2015,2993,258,Diesel,230000,Gri,used,auto,left-side drive,28999
@@ -315,87 +315,87 @@ Clasa E,2016,1950,194,Diesel,79921,Gri,used,auto,left-side drive,31000
 Seria 1,2005,1995,200,Diesel,295000,Gri,used,manual,left-side drive,3300
 CR-V,2019,1498,193,Benzina,98700,Gri,used,auto,left-side drive,26900
 Fiesta,2009,1600,100,Diesel,190000,Alb,used,manual,left-side drive,4300
-Vectra,2009,1796,NOT SPECIFIED,Benzina,150000,Albastru,used,auto,left-side drive,4200
+Vectra,2009,1796,-,Benzina,150000,Albastru,used,auto,left-side drive,4200
 Passat,2017,1986,150,Diesel,268175,Alb,used,manual,left-side drive,11499
 Clio,2017,1500,90,Diesel,50500,Alb,used,manual,left-side drive,8900
 X5,2017,3000,381,Diesel,120000,Albastru,used,auto,left-side drive,33500
-Seria 3,2015,1993,163,NOT SPECIFIED,199000,Negru,used,auto,left-side drive,14300
+Seria 3,2015,1993,163,-,199000,Negru,used,auto,left-side drive,14300
 Koleos,2012,1995,150,Diesel,196000,Negru,used,manual,left-side drive,7000
 Golf,2008,1900,105,Diesel,300000,Albastru,new,manual,left-side drive,3600
-Clasa E,2015,2143,NOT SPECIFIED,Diesel,171000,NOT SPECIFIED,used,auto,left-side drive,14900
+Clasa E,2015,2143,-,Diesel,171000,-,used,auto,left-side drive,14900
 Clasa A,2008,1998,140,Diesel,185000,Gri,used,manual,left-side drive,2780
 Seria 3,2015,2957,258,Diesel,130000,Alb,used,auto,left-side drive,14700
 A4,2013,1968,119,Diesel,256336,Maro / Bej,used,manual,left-side drive,8490
 X5,2011,2999,245,Diesel,250000,Negru,used,auto,left-side drive,14999
 Golf,2004,1893,105,Diesel,260000,Alb,used,manual,left-side drive,3000
 Octavia,2016,1598,110,Diesel,240000,Gri,used,auto,left-side drive,10800
-Focus,2022,999,125,Benzina,5300,Albastru,used,manual,NOT SPECIFIED,13500
+Focus,2022,999,125,Benzina,5300,Albastru,used,manual,-,13500
 Golf,2011,1400,122,Benzina,163000,Albastru,used,manual,left-side drive,6000
 Clasa A,2008,1998,140,Diesel,185000,Gri,used,manual,left-side drive,2780
 Seria 3,2015,2957,258,Diesel,130000,Alb,used,auto,left-side drive,14700
 Golf,2004,1893,105,Diesel,260000,Alb,used,manual,left-side drive,3000
 Seria 5,2012,2993,313,Diesel,50131,Albastru,used,auto,left-side drive,20400
-Megane,2012,1500,110,Diesel,220000,Gri,NOT SPECIFIED,auto,NOT SPECIFIED,5100
+Megane,2012,1500,110,Diesel,220000,Gri,-,auto,-,5100
 RAV-4,2020,2496,178,Benzina,49990,Alb,used,auto,left-side drive,44900
 Octavia,2016,1598,110,Diesel,240000,Gri,used,auto,left-side drive,10800
-Focus,2022,999,125,Benzina,5300,Albastru,used,manual,NOT SPECIFIED,13500
+Focus,2022,999,125,Benzina,5300,Albastru,used,manual,-,13500
 Octavia,2010,1600,116,Diesel,225000,Gri,used,auto,left-side drive,995
 Land Cruiser,2006,3000,166,Diesel,265200,Gri,used,manual,left-side drive,11100
 Range Rover Sport,2017,2996,306,Diesel,78000,Gri,used,auto,left-side drive,50900
 A5,2013,1968,170,Benzina,209610,Gri,used,manual,left-side drive,13328
-Clasa C,2016,2143,170,NOT SPECIFIED,270000,Alb,used,auto,left-side drive,13900
-A6,2012,3000,204,Diesel,190000,NOT SPECIFIED,used,auto,left-side drive,13300
-Discovery Sport,2015,2178,NOT SPECIFIED,Diesel,250000,Negru,used,auto,left-side drive,18200
+Clasa C,2016,2143,170,-,270000,Alb,used,auto,left-side drive,13900
+A6,2012,3000,204,Diesel,190000,-,used,auto,left-side drive,13300
+Discovery Sport,2015,2178,-,Diesel,250000,Negru,used,auto,left-side drive,18200
 Clasa C,2008,2198,170,Diesel,425000,Argintiu,used,manual,left-side drive,5000
 Ibiza,2012,1200,55,Diesel,186700,Alb,used,manual,left-side drive,2900
 Clasa A,2009,1991,110,Diesel,225000,Argintiu,used,manual,left-side drive,3499
 V50,2005,2000,136,Diesel,300,Gri,used,manual,left-side drive,2000
 Passat,2013,1968,140,Diesel,234251,Gri,used,auto,left-side drive,10500
 Focus,2012,1000,125,Benzina,184330,Negru,used,manual,left-side drive,5150
-Golf,2016,2000,150,Diesel,190000,Albastru,NOT SPECIFIED,auto,left-side drive,11300
+Golf,2016,2000,150,Diesel,190000,Albastru,-,auto,left-side drive,11300
 Auris,2008,1998,125,Diesel,235000,Galben / Auriu,used,manual,left-side drive,3900
 X6 M,2019,2993,381,Diesel,97000,Gri,used,auto,left-side drive,48000
-Dokker,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,579000,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,3700
+Dokker,-,-,-,-,579000,-,-,-,-,3700
 Astra,2008,1700,125,Diesel,250000,Negru,used,manual,left-side drive,3500
 Leon,2014,1400,120,Benzina,110000,Rosu,used,manual,left-side drive,11900
-Polo,2012,1200,NOT SPECIFIED,Diesel,200000,Albastru,used,manual,left-side drive,6000
-Golf,2015,1593,NOT SPECIFIED,Diesel,250000,Gri,NOT SPECIFIED,manual,left-side drive,6700
-Q7,2016,2967,272,Diesel,84000,Alb,NOT SPECIFIED,auto,left-side drive,44799
+Polo,2012,1200,-,Diesel,200000,Albastru,used,manual,left-side drive,6000
+Golf,2015,1593,-,Diesel,250000,Gri,-,manual,left-side drive,6700
+Q7,2016,2967,272,Diesel,84000,Alb,-,auto,left-side drive,44799
 Seria 5,2012,1986,184,Diesel,330000,Alb,used,auto,left-side drive,12490
 Polo,2007,1422,80,Diesel,175000,Alb,used,manual,left-side drive,2750
-Seria 5,2012,2996,NOT SPECIFIED,Benzina,290000,Negru,used,auto,left-side drive,10000
+Seria 5,2012,2996,-,Benzina,290000,Negru,used,auto,left-side drive,10000
 Model S,2015,500,525,Electric,232000,Gri,used,auto,left-side drive,31900
 Golf,2007,2000,140,Diesel,280000,Negru,used,manual,left-side drive,4200
 Ceed,2019,1400,140,Benzina,65900,Gri,used,manual,left-side drive,13800
-Clasa C,2012,2148,170,Diesel,149600,Gri,used,auto,NOT SPECIFIED,13990
+Clasa C,2012,2148,170,Diesel,149600,Gri,used,auto,-,13990
 V40,2013,1560,114,Diesel,252,Maro / Bej,used,manual,left-side drive,10450
 Astra,2008,1900,120,Diesel,202000,Gri,used,auto,left-side drive,4800
-Golf,2010,1400,122,Benzina,151000,Negru,NOT SPECIFIED,manual,NOT SPECIFIED,6100
+Golf,2010,1400,122,Benzina,151000,Negru,-,manual,-,6100
 A6,2018,2000,190,Diesel,150000,Alb,new,auto,left-side drive,26000
-Duster,2018,1598,114,NOT SPECIFIED,21000,Argintiu,used,manual,left-side drive,13300
+Duster,2018,1598,114,-,21000,Argintiu,used,manual,left-side drive,13300
 Logan,2009,1598,105,Benzina,110000,Negru,used,manual,left-side drive,2850
 Clasa S,2018,2993,286,Diesel,195000,Negru,used,auto,left-side drive,59900
 F-Pace,2018,1995,180,Diesel,196000,Alb,used,auto,left-side drive,18500
-Seria 7,2012,NOT SPECIFIED,313,Diesel,241000,Negru,used,auto,left-side drive,16200
+Seria 7,2012,-,313,Diesel,241000,Negru,used,auto,left-side drive,16200
 Seria 5,2018,1998,252,Hibrid,165000,Gri,used,auto,left-side drive,29999
 Seria 3,2010,1998,177,Diesel,258000,Negru,used,auto,left-side drive,6400
 Zafira,2001,1800,125,Benzina,265000,Rosu,used,manual,left-side drive,1170
 Clasa E,2016,1950,194,Diesel,79921,Gri,used,auto,left-side drive,31000
-Passat,2016,1968,150,Diesel,247000,Albastru,used,auto,NOT SPECIFIED,13100
+Passat,2016,1968,150,Diesel,247000,Albastru,used,auto,-,13100
 Clasa CLS,2005,4966,225,Benzina,220000,Alb,used,auto,left-side drive,4500
 X5,2015,2000,218,Diesel,255000,Argintiu,used,auto,left-side drive,28500
 6,2011,1995,155,Benzina,190864,Alb,used,manual,left-side drive,8500
 Land Cruiser,2010,2990,174,Diesel,246000,Negru,used,auto,left-side drive,13990
-Megane,2005,1498,NOT SPECIFIED,Diesel,NOT SPECIFIED,Albastru,used,manual,left-side drive,1290
+Megane,2005,1498,-,Diesel,-,Albastru,used,manual,left-side drive,1290
 Insignia,2018,1600,110,Diesel,214000,Rosu,used,manual,left-side drive,12000
-Seria 3,2013,2000,200,Diesel,NOT SPECIFIED,Galben / Auriu,used,auto,NOT SPECIFIED,12500
+Seria 3,2013,2000,200,Diesel,-,Galben / Auriu,used,auto,-,12500
 Clio,2017,1461,75,Diesel,144000,Alb,used,manual,left-side drive,7500
-Ceed,2008,1600,90,Diesel,227000,Maro / Bej,used,manual,NOT SPECIFIED,2900
+Ceed,2008,1600,90,Diesel,227000,Maro / Bej,used,manual,-,2900
 Insignia,2018,1600,110,Diesel,214000,Rosu,used,manual,left-side drive,12000
-A5,2012,2000,NOT SPECIFIED,Diesel,248000,Maro / Bej,used,auto,left-side drive,11200
-Laguna,2006,1895,NOT SPECIFIED,Diesel,NOT SPECIFIED,Verde,used,manual,left-side drive,1490
+A5,2012,2000,-,Diesel,248000,Maro / Bej,used,auto,left-side drive,11200
+Laguna,2006,1895,-,Diesel,-,Verde,used,manual,left-side drive,1490
 Sorento,2007,2500,170,Diesel,170000,Negru,used,manual,left-side drive,4700
-Cherokee,2009,2987,NOT SPECIFIED,Diesel,250000,Alb,used,auto,left-side drive,4700
+Cherokee,2009,2987,-,Diesel,250000,Alb,used,auto,left-side drive,4700
 Seria 5,2017,1998,252,Hibrid,100876,Albastru,used,auto,left-side drive,34300
 Clasa S,2018,2925,340,Diesel,84140,Negru,used,auto,left-side drive,51500
 5008,2018,1600,120,Diesel,125000,Negru,used,auto,left-side drive,17500
@@ -403,7 +403,7 @@ Sportage,2019,1598,136,Diesel,176000,Rosu,used,auto,left-side drive,19500
 Corsa,2006,1000,60,Benzina,163000,Rosu,used,manual,left-side drive,1390
 Clasa SLK,1998,1998,150,Benzina,178253,Galben / Auriu,used,manual,left-side drive,4400
 Clio,2009,1500,85,Diesel,160000,Alb,used,manual,left-side drive,2650
-Focus,2014,998,125,Benzina,194623,Gri,NOT SPECIFIED,manual,left-side drive,6291
+Focus,2014,998,125,Benzina,194623,Gri,-,manual,left-side drive,6291
 Logan,2006,1390,75,Benzina,85,Argintiu,used,manual,left-side drive,1599
 Golf Plus,2011,1598,105,Diesel,233000,Gri,used,auto,left-side drive,5400
 V40,2018,2000,150,Diesel,173000,Albastru,used,auto,left-side drive,13700
@@ -411,17 +411,17 @@ Tiguan,2010,2000,170,Benzina,163500,Alb,used,manual,left-side drive,8499
 Seria 5,2015,2000,190,Diesel,250000,Negru,used,auto,left-side drive,12950
 A4,2007,500,18,Benzina,284398,Negru,used,manual,left-side drive,5600
 A4,2009,1967,105,Diesel,275000,Alb,used,manual,left-side drive,6700
-Tiguan,2012,1968,140,Diesel,117000,Albastru,used,manual,NOT SPECIFIED,11990
-Octavia,2009,2000,170,Diesel,234000,Argintiu,NOT SPECIFIED,auto,left-side drive,6300
+Tiguan,2012,1968,140,Diesel,117000,Albastru,used,manual,-,11990
+Octavia,2009,2000,170,Diesel,234000,Argintiu,-,auto,left-side drive,6300
 Seria 3,2002,1998,150,Diesel,300000,Albastru,used,manual,left-side drive,2000
-Symbol,2007,1400,NOT SPECIFIED,Benzina,143000,Gri,used,manual,left-side drive,1965
+Symbol,2007,1400,-,Benzina,143000,Gri,used,manual,left-side drive,1965
 Octavia,2000,1598,100,Benzina,355000,Negru,used,manual,left-side drive,2000
-Focus,2013,NOT SPECIFIED,115,Diesel,226000,Alb,used,manual,left-side drive,6600
+Focus,2013,-,115,Diesel,226000,Alb,used,manual,left-side drive,6600
 Qashqai,2010,2000,148,Diesel,180000,Negru,used,auto,left-side drive,8300
-Tiguan,2012,1968,140,Diesel,117000,Albastru,used,manual,NOT SPECIFIED,11990
-Octavia,2009,2000,170,Diesel,234000,Argintiu,NOT SPECIFIED,auto,left-side drive,6300
+Tiguan,2012,1968,140,Diesel,117000,Albastru,used,manual,-,11990
+Octavia,2009,2000,170,Diesel,234000,Argintiu,-,auto,left-side drive,6300
 Seria 3,2002,1998,150,Diesel,300000,Albastru,used,manual,left-side drive,2000
-Symbol,2007,1400,NOT SPECIFIED,Benzina,143000,Gri,used,manual,left-side drive,1965
+Symbol,2007,1400,-,Benzina,143000,Gri,used,manual,left-side drive,1965
 Octavia,2000,1598,100,Benzina,355000,Negru,used,manual,left-side drive,2000
 Yaris,2005,1393,90,Diesel,220000,Albastru,used,manual,left-side drive,3000
 X5,2015,3000,258,Diesel,254,Alb,used,auto,left-side drive,24500
@@ -446,14 +446,14 @@ Clasa B,2012,1796,109,Diesel,249000,Gri,used,manual,left-side drive,6500
 Tigra,2006,1600,80,Benzina,115000,Negru,used,manual,left-side drive,1650
 Clasa C,2012,2143,136,Diesel,247000,Gri,used,manual,left-side drive,11600
 Clasa CLA,2013,2200,170,Diesel,290000,Gri,used,auto,left-side drive,15500
-Clasa ML,2012,2993,NOT SPECIFIED,Diesel,198000,Gri,used,auto,left-side drive,15900
+Clasa ML,2012,2993,-,Diesel,198000,Gri,used,auto,left-side drive,15900
 Q5,2009,1395,160,Benzina,149000,Alb,used,manual,left-side drive,4650
-Doblo,2023,NOT SPECIFIED,150,Electric,50,Gri,new,auto,left-side drive,29900
+Doblo,2023,-,150,Electric,50,Gri,new,auto,left-side drive,29900
 Z4 M,2007,3246,343,Benzina,48250,Alta culoare,used,manual,left-side drive,44900
-Golf,2010,1400,122,Benzina,157000,Gri,NOT SPECIFIED,manual,NOT SPECIFIED,6100
-Grand Vitara,1997,2000,NOT SPECIFIED,Diesel,210000,NOT SPECIFIED,used,manual,left-side drive,3950
+Golf,2010,1400,122,Benzina,157000,Gri,-,manual,-,6100
+Grand Vitara,1997,2000,-,Diesel,210000,-,used,manual,left-side drive,3950
 Octavia,2005,1986,140,Diesel,214500,Verde,used,manual,left-side drive,3400
-Golf,2014,2000,300,Benzina,143000,Negru,new,manual,NOT SPECIFIED,10500
+Golf,2014,2000,300,Benzina,143000,Negru,new,manual,-,10500
 Golf,2012,1598,105,Diesel,302000,Albastru,used,manual,left-side drive,4500
 Range Rover Sport,2013,2998,258,Diesel,189000,Gri,used,auto,left-side drive,14500
 T-Cross,2020,1498,150,Benzina,31500,Gri,used,auto,left-side drive,21500
@@ -461,34 +461,34 @@ Logan,2014,898,90,Benzina,106500,Negru,used,manual,left-side drive,5690
 Logan,2018,999,75,Benzina,830,Alb,new,manual,left-side drive,8900
 Caddy,2019,1968,105,Diesel,236000,Alb,used,manual,left-side drive,9900
 Focus,2013,1997,103,Diesel,153000,Gri,used,auto,left-side drive,6100
-Polo,2011,1200,70,Benzina,151000,Argintiu,NOT SPECIFIED,manual,NOT SPECIFIED,5390
+Polo,2011,1200,70,Benzina,151000,Argintiu,-,manual,-,5390
 Octavia,2012,1600,105,Diesel,299500,Galben / Auriu,used,manual,left-side drive,4200
-6,2011,2200,140,Diesel,196000,Negru,NOT SPECIFIED,manual,NOT SPECIFIED,5200
+6,2011,2200,140,Diesel,196000,Negru,-,manual,-,5200
 Logan Stepway,2019,898,90,Benzina,147000,Albastru,used,manual,left-side drive,8990
-Sportage,2016,NOT SPECIFIED,136,Diesel,115000,Maro / Bej,used,auto,left-side drive,19000
+Sportage,2016,-,136,Diesel,115000,Maro / Bej,used,auto,left-side drive,19000
 RS3,2012,2500,740,Benzina,177000,Negru,used,auto,left-side drive,31000
 Captur,2020,1333,130,Benzina,28540,Alta culoare,used,manual,left-side drive,18000
 Kamiq,2021,999,115,Benzina,19800,Albastru,used,auto,left-side drive,20700
-Logan,2013,1200,NOT SPECIFIED,GPL,220000,Alb,used,manual,left-side drive,4500
+Logan,2013,1200,-,GPL,220000,Alb,used,manual,left-side drive,4500
 Tiguan,2009,2000,140,Diesel,235000,Alb,used,manual,left-side drive,7300
 A7,2015,2980,270,Diesel,162000,Gri,used,auto,left-side drive,23400
 Seria 3,2013,2000,184,Diesel,21500,Gri,used,auto,left-side drive,12900
 Giulietta,2010,1742,235,Benzina,192000,Alb,used,manual,left-side drive,8800
 Seria 5,2008,1995,200,Diesel,310000,Gri,used,manual,left-side drive,5650
 Clasa A,2011,1600,90,Diesel,158937,Rosu,used,manual,left-side drive,4700
-Clasa B,2015,2143,136,Diesel,NOT SPECIFIED,Argintiu,used,auto,left-side drive,12700
+Clasa B,2015,2143,136,Diesel,-,Argintiu,used,auto,left-side drive,12700
 Golf,2011,1197,105,Benzina,172000,Alb,used,manual,left-side drive,5950
-Corolla,2021,1800,NOT SPECIFIED,Hibrid,73340,Gri,used,auto,left-side drive,21600
-Matiz,2003,800,NOT SPECIFIED,Benzina,120000,Gri,used,manual,left-side drive,812
+Corolla,2021,1800,-,Hibrid,73340,Gri,used,auto,left-side drive,21600
+Matiz,2003,800,-,Benzina,120000,Gri,used,manual,left-side drive,812
 A4 Allroad,2018,1968,190,Diesel,199000,Gri,used,auto,left-side drive,19250
 Bravo,2011,1600,105,Diesel,170000,Negru,used,manual,left-side drive,3100
-Golf Plus,2010,1398,NOT SPECIFIED,Benzina,1710000,Gri,used,manual,left-side drive,5490
+Golf Plus,2010,1398,-,Benzina,1710000,Gri,used,manual,left-side drive,5490
 Leon,2012,1200,105,Benzina,231000,Negru,new,manual,left-side drive,4499
 Seria 3,2009,2000,140,Diesel,260000,Argintiu,used,auto,left-side drive,4800
-RAPID,2018,1598,115,Diesel,182000,Argintiu,used,manual,NOT SPECIFIED,10200
+RAPID,2018,1598,115,Diesel,182000,Argintiu,used,manual,-,10200
 Tiguan,2018,1968,150,Diesel,209000,Alb,used,manual,left-side drive,15450
-Focus,2007,1600,101,Benzina,196000,Gri,NOT SPECIFIED,manual,NOT SPECIFIED,1800
-Fabia,2017,990,NOT SPECIFIED,Benzina,145000,Alb,used,manual,left-side drive,8200
+Focus,2007,1600,101,Benzina,196000,Gri,-,manual,-,1800
+Fabia,2017,990,-,Benzina,145000,Alb,used,manual,left-side drive,8200
 A4,2015,2000,190,Diesel,194000,Negru,used,auto,left-side drive,12700
 Clasa A,2014,1500,109,Diesel,225001,Negru,used,auto,left-side drive,11850
 Seria 5,2015,1968,218,Diesel,170001,Negru,used,auto,left-side drive,13250
@@ -498,7 +498,7 @@ Qashqai+2,2011,1500,110,Diesel,221007,Albastru,used,manual,left-side drive,6350
 X3 M,2012,2999,265,Diesel,220000,Alta culoare,used,auto,left-side drive,14650
 Passat,2014,1968,143,Diesel,220000,Negru,used,auto,left-side drive,8600
 Outlander,2010,2000,145,Diesel,233350,Alb,used,manual,left-side drive,8300
-Laguna,2010,NOT SPECIFIED,110,Diesel,225200,Negru,used,manual,left-side drive,5199
+Laguna,2010,-,110,Diesel,225200,Negru,used,manual,left-side drive,5199
 Karoq,2019,1600,115,Diesel,198000,Albastru,used,auto,left-side drive,16750
 Passat,2007,2000,140,Diesel,246,Albastru,used,manual,left-side drive,4000
 Passat,2016,2000,150,Diesel,256000,Albastru,used,auto,left-side drive,14850
@@ -508,21 +508,21 @@ Ducato,2018,2300,131,Diesel,354000,Alb,used,manual,left-side drive,15600
 Passat CC,2010,2000,170,Diesel,240000,Gri,used,manual,left-side drive,7650
 Superb,2010,1968,170,Diesel,292300,Negru,used,auto,left-side drive,5900
 Avensis,2010,1789,140,Benzina,215004,Argintiu,used,manual,left-side drive,6290
-Golf,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,1300
-A3,2010,1396,125,Benzina,224000,NOT SPECIFIED,used,manual,left-side drive,5700
+Golf,-,-,-,-,-,-,-,-,-,1300
+A3,2010,1396,125,Benzina,224000,-,used,manual,left-side drive,5700
 Logan,2019,999,73,Benzina,170300,Alb,used,manual,left-side drive,6599
 Caddy,2017,1998,102,Diesel,119000,Alta culoare,used,manual,left-side drive,11500
 Tiguan,2018,1968,150,Diesel,209000,Alb,used,manual,left-side drive,15450
 A4,2011,2000,180,Benzina,170180,Negru,used,manual,left-side drive,6500
 A3,2008,1986,140,Diesel,268000,Gri,used,manual,left-side drive,3850
 Laguna,2012,1968,179,Diesel,240001,Gri,used,auto,left-side drive,5450
-Actyon,2009,1998,NOT SPECIFIED,Diesel,250000,Negru,used,manual,left-side drive,2500
+Actyon,2009,1998,-,Diesel,250000,Negru,used,manual,left-side drive,2500
 Corsa,2008,1300,55,Diesel,81000,Gri,used,manual,left-side drive,3900
 Leon,2012,1200,105,Benzina,231000,Negru,new,manual,left-side drive,4499
 Seria 6,2017,2995,313,Diesel,220000,Negru,used,auto,left-side drive,22100
 Q7,2016,2967,272,Diesel,275000,Maro / Bej,used,auto,left-side drive,34500
 Astra,2001,1598,101,Benzina,217000,Maro / Bej,used,manual,left-side drive,710
-Sprinter,2004,2700,NOT SPECIFIED,Diesel,NOT SPECIFIED,NOT SPECIFIED,used,manual,left-side drive,1100
+Sprinter,2004,2700,-,Diesel,-,-,used,manual,left-side drive,1100
 A3,2011,1965,170,Diesel,222879,Rosu,used,auto,left-side drive,8499
 CX-5,2012,2191,150,Diesel,229000,Rosu,used,manual,left-side drive,8000
 Golf,2009,1400,122,Benzina,179000,Rosu,new,manual,left-side drive,3999
@@ -534,38 +534,38 @@ V50,2009,1997,136,Diesel,218000,Rosu,new,manual,left-side drive,3799
 Focus,2011,1600,101,Benzina,260000,Negru,used,manual,left-side drive,3490
 Antara,2008,1998,150,Diesel,186000,Negru,used,manual,left-side drive,5500
 Clasa C,2013,2143,170,Diesel,228000,Gri,new,manual,left-side drive,11200
-Jetta,2018,2000,110,Diesel,208000,Gri,used,manual,NOT SPECIFIED,9950
+Jetta,2018,2000,110,Diesel,208000,Gri,used,manual,-,9950
 Passat,2020,1968,190,Diesel,212000,Negru,used,auto,left-side drive,18450
 Q7,2016,2967,272,Diesel,275000,Maro / Bej,used,auto,left-side drive,34500
 altul,2021,3000,245,Diesel,59000,Negru,new,auto,left-side drive,54900
 Octavia,2018,1968,184,Diesel,192006,Albastru,used,auto,left-side drive,15350
 Seria 3,2009,1995,177,Diesel,191000,Gri,used,manual,left-side drive,5500
-Streetka,2004,1600,95,Benzina,92000,Negru,NOT SPECIFIED,manual,NOT SPECIFIED,2150
+Streetka,2004,1600,95,Benzina,92000,Negru,-,manual,-,2150
 Seria 5,2014,2999,381,Diesel,170000,Negru,used,auto,left-side drive,24500
 A3,2018,1600,116,Diesel,188000,Albastru,used,auto,left-side drive,17900
 A7,2011,3000,245,Diesel,287000,Maro / Bej,used,auto,left-side drive,14600
-Twingo,2009,1149,76,Benzina,NOT SPECIFIED,Albastru,NOT SPECIFIED,manual,NOT SPECIFIED,1850
+Twingo,2009,1149,76,Benzina,-,Albastru,-,manual,-,1850
 V50,2009,1997,136,Diesel,218000,Rosu,new,manual,left-side drive,3799
 Seria 5,2014,2999,381,Diesel,170000,Negru,used,auto,left-side drive,24500
 Vivaro,2013,2000,90,Diesel,238000,Alb,used,manual,left-side drive,6200
 Clasa C,2017,3000,350,Benzina,95000,Alb,used,auto,left-side drive,35000
-Doblo,2004,1900,NOT SPECIFIED,Diesel,168000,Alb,used,manual,NOT SPECIFIED,1650
+Doblo,2004,1900,-,Diesel,168000,Alb,used,manual,-,1650
 Z4,2011,2000,250,Benzina,178000,Alb,used,manual,left-side drive,15750
 Golf,2012,1598,105,Diesel,227000,Gri,used,manual,left-side drive,5750
 V40,2015,1969,120,Diesel,168900,Negru,used,manual,left-side drive,10800
 Seria 6,2017,2995,313,Diesel,220000,Negru,used,auto,left-side drive,22100
 Z4,2011,2000,250,Benzina,178000,Alb,used,manual,left-side drive,15750
 Bravo,2011,1600,105,Diesel,170000,Negru,used,manual,left-side drive,3100
-Auris,2014,1396,90,Diesel,NOT SPECIFIED,NOT SPECIFIED,used,auto,NOT SPECIFIED,13499
+Auris,2014,1396,90,Diesel,-,-,used,auto,-,13499
 A4,2011,2000,180,Benzina,170180,Negru,used,manual,left-side drive,6500
 Qashqai,2014,1461,110,Diesel,219000,Negru,used,manual,left-side drive,9350
-CR-V,1998,2000,NOT SPECIFIED,Benzina,NOT SPECIFIED,NOT SPECIFIED,used,manual,left-side drive,1200
+CR-V,1998,2000,-,Benzina,-,-,used,manual,left-side drive,1200
 Transporter,1997,2461,113,Diesel,254808,Albastru,used,manual,left-side drive,304
 Golf,2003,1600,110,Benzina,320000,Albastru,used,manual,left-side drive,1500
 Clasa ML,2008,3000,190,Diesel,283000,Negru,used,auto,left-side drive,9450
 Seria 1,2008,2000,143,Diesel,192512,Gri,used,manual,left-side drive,5490
-A4,NOT SPECIFIED,2000,NOT SPECIFIED,Diesel,207000,Negru,used,manual,left-side drive,7950
-Insignia,2014,2000,140,Diesel,201347,Argintiu,used,manual,NOT SPECIFIED,7350
+A4,-,2000,-,Diesel,207000,Negru,used,manual,left-side drive,7950
+Insignia,2014,2000,140,Diesel,201347,Argintiu,used,manual,-,7350
 Caddy,2013,1598,105,Diesel,170000,Gri,used,auto,left-side drive,10850
 XC 90,2016,2000,190,Diesel,320000,Maro / Bej,used,auto,left-side drive,24900
 Golf,2007,1900,105,Diesel,224000,Gri,used,manual,left-side drive,4300
@@ -578,7 +578,7 @@ Grand Vitara,2009,1900,131,Diesel,200000,Alta culoare,used,manual,left-side driv
 Astra,2017,1598,136,Diesel,148000,Albastru,used,manual,left-side drive,9299
 X6,2015,3000,245,Diesel,234,Negru,used,auto,left-side drive,28600
 Passat,2011,2000,140,Diesel,201000,Galben / Auriu,used,manual,left-side drive,9350
-Transporter,2000,NOT SPECIFIED,NOT SPECIFIED,Diesel,NOT SPECIFIED,Alb,used,manual,left-side drive,1000
+Transporter,2000,-,-,Diesel,-,Alb,used,manual,left-side drive,1000
 Tiguan,2021,1968,150,Diesel,160000,Alb,used,auto,left-side drive,26250
 A4 Allroad,2018,1968,190,Diesel,199000,Gri,used,auto,left-side drive,19250
 Laguna,2012,1968,179,Diesel,240001,Gri,used,auto,left-side drive,5450
@@ -595,9 +595,9 @@ Seria 5,2014,2999,381,Diesel,170000,Negru,used,auto,left-side drive,24500
 Crafter,2010,2461,136,Diesel,265000,Gri,used,manual,left-side drive,8300
 Mondeo,2004,1800,125,Benzina,134000,Albastru,used,manual,left-side drive,1700
 i30,2008,1600,84,Diesel,238,Negru,used,manual,left-side drive,3500
-Logan,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,14250
+Logan,-,-,-,-,-,-,-,-,-,14250
 Tiguan,2020,2000,240,Diesel,80500,Alb,used,auto,left-side drive,17000
-A4,NOT SPECIFIED,2000,NOT SPECIFIED,Diesel,207000,Negru,used,manual,left-side drive,7950
+A4,-,2000,-,Diesel,207000,Negru,used,manual,left-side drive,7950
 Grand Vitara,2009,1900,131,Diesel,200000,Alta culoare,used,manual,left-side drive,5950
 X5,2015,2993,258,Diesel,177000,Alb,used,auto,left-side drive,31500
 altul,2021,3000,245,Diesel,59000,Negru,new,auto,left-side drive,54900
@@ -610,7 +610,7 @@ Caddy,2019,2000,105,Diesel,220000,Argintiu,used,auto,left-side drive,14950
 Caddy,2010,1900,105,Diesel,260000,Argintiu,used,manual,left-side drive,6450
 Qashqai,2014,1461,110,Diesel,219000,Negru,used,manual,left-side drive,9350
 Q7,2009,3000,245,Diesel,150000,Negru,used,auto,right-side drive,4999
-Focus,2007,1600,NOT SPECIFIED,Diesel,186000,NOT SPECIFIED,used,manual,left-side drive,2390
+Focus,2007,1600,-,Diesel,186000,-,used,manual,left-side drive,2390
 Grand Vitara,2009,1900,131,Diesel,200000,Alta culoare,used,manual,left-side drive,5950
 altul,2021,3000,245,Diesel,59000,Negru,new,auto,left-side drive,54900
 Talento,2020,1600,120,Diesel,195000,Alb,used,manual,left-side drive,12650
@@ -618,7 +618,7 @@ Citigo,2013,998,70,Benzina,170001,Rosu,used,manual,left-side drive,4450
 A3,2010,1990,140,Diesel,280000,Gri,used,manual,left-side drive,6780
 Qashqai,2014,1461,110,Diesel,219000,Negru,used,manual,left-side drive,9350
 Courier,2018,1500,75,Diesel,99002,Alb,used,manual,left-side drive,8150
-Ducato,2000,1900,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,used,manual,left-side drive,1500
+Ducato,2000,1900,-,-,-,-,used,manual,left-side drive,1500
 Tiguan,2018,1968,150,Diesel,209000,Alb,used,manual,left-side drive,15450
 2,2012,1349,84,Benzina,172000,Alb,new,manual,left-side drive,4399
 Focus,2005,1997,101,Diesel,245789,Albastru,used,manual,left-side drive,1550
@@ -629,19 +629,19 @@ A3,2010,1990,140,Diesel,280000,Gri,used,manual,left-side drive,6780
 Octavia,2014,1968,150,Diesel,243000,Argintiu,used,manual,left-side drive,7850
 Fabia,2001,1390,100,GPL,310000,Argintiu,used,manual,left-side drive,1350
 Octavia,2016,1598,110,Diesel,231000,Alb,used,auto,left-side drive,8990
-Fabia,2006,1198,NOT SPECIFIED,Benzina,185000,Albastru,used,manual,left-side drive,1400
+Fabia,2006,1198,-,Benzina,185000,Albastru,used,manual,left-side drive,1400
 Caddy,2017,1998,102,Diesel,119000,Alta culoare,used,manual,left-side drive,11500
 Clasa C,2013,2143,170,Diesel,228000,Gri,new,manual,left-side drive,11200
 Seria 3,2014,1997,163,Diesel,228000,Gri,new,auto,left-side drive,11000
-Fiesta,2019,1498,85,Diesel,120000,Alb,NOT SPECIFIED,manual,left-side drive,8700
+Fiesta,2019,1498,85,Diesel,120000,Alb,-,manual,left-side drive,8700
 Fiesta,2001,1300,65,Benzina,220000,Rosu,used,manual,left-side drive,548
 X3,2015,2000,190,Diesel,263000,Negru,used,auto,left-side drive,15500
-Land Cruiser,2004,2982,200,Diesel,NOT SPECIFIED,Maro / Bej,used,manual,left-side drive,10800
-A6,2007,NOT SPECIFIED,140,Diesel,NOT SPECIFIED,NOT SPECIFIED,used,manual,left-side drive,4000
+Land Cruiser,2004,2982,200,Diesel,-,Maro / Bej,used,manual,left-side drive,10800
+A6,2007,-,140,Diesel,-,-,used,manual,left-side drive,4000
 Macan,2017,2967,258,Diesel,195000,Negru,used,auto,left-side drive,38300
 altul,2021,3000,245,Diesel,59000,Negru,new,auto,left-side drive,54900
 Karoq,2019,1600,115,Diesel,198000,Albastru,used,auto,left-side drive,16750
-altul,2017,4367,340,Diesel,76000,Alb,NOT SPECIFIED,auto,left-side drive,47900
+altul,2017,4367,340,Diesel,76000,Alb,-,auto,left-side drive,47900
 X5,2015,2993,258,Diesel,177000,Alb,used,auto,left-side drive,31500
 Clio,2006,1400,88,Benzina,290000,Gri,used,manual,left-side drive,2250
 406,2003,1997,108,Diesel,313000,Gri,used,manual,left-side drive,900
@@ -649,46 +649,46 @@ C4,2011,1400,95,Benzina,115600,Albastru,used,manual,left-side drive,3100
 Passat,2014,1968,143,Diesel,220000,Negru,used,auto,left-side drive,8600
 A4,2011,2000,180,Benzina,170180,Negru,used,manual,left-side drive,6500
 Grand Cherokee,2008,3000,250,Diesel,250000,Albastru,used,auto,left-side drive,4950
-6,NOT SPECIFIED,2191,150,Diesel,260000,NOT SPECIFIED,used,manual,left-side drive,9199
+6,-,2191,150,Diesel,260000,-,used,manual,left-side drive,9199
 308,2016,1600,120,Diesel,250000,Alta culoare,used,manual,left-side drive,8000
 Fortwo,2016,1000,90,Benzina,130000,Alta culoare,used,manual,left-side drive,7490
 Passat,2012,1600,110,Diesel,248000,Alb,used,manual,left-side drive,5300
 Cayenne,2012,3000,245,Diesel,214000,Alb,used,auto,left-side drive,22700
 Courier,2018,1500,75,Diesel,99002,Alb,used,manual,left-side drive,8150
 Seria 3,2013,1995,184,Diesel,276035,Negru,used,auto,left-side drive,10900
-Seria 5,2003,1951,136,Diesel,NOT SPECIFIED,Negru,used,manual,left-side drive,1800
+Seria 5,2003,1951,136,Diesel,-,Negru,used,manual,left-side drive,1800
 Clio,2004,1461,65,Diesel,270,Albastru,used,manual,left-side drive,1015
 X6,2016,2998,258,Diesel,159000,Alb,used,auto,left-side drive,35999
 Kuga,2013,1999,150,Diesel,170000,Argintiu,used,auto,left-side drive,11400
 Clasa A,2014,1500,109,Diesel,225001,Negru,used,auto,left-side drive,11850
-Golf Plus,2010,1398,NOT SPECIFIED,Benzina,1710000,Gri,used,manual,left-side drive,5490
+Golf Plus,2010,1398,-,Benzina,1710000,Gri,used,manual,left-side drive,5490
 Citigo,2013,998,70,Benzina,170001,Rosu,used,manual,left-side drive,4450
-Superb,2012,NOT SPECIFIED,NOT SPECIFIED,Diesel,275000,NOT SPECIFIED,used,manual,left-side drive,6000
+Superb,2012,-,-,Diesel,275000,-,used,manual,left-side drive,6000
 156,2004,1991,116,Diesel,2550000,Gri,used,manual,left-side drive,1300
 Talento,2020,1600,120,Diesel,195000,Alb,used,manual,left-side drive,12650
 Q7,2016,2967,272,Diesel,275000,Maro / Bej,used,auto,left-side drive,34500
 Astra,2017,1598,136,Diesel,148000,Albastru,used,manual,left-side drive,9299
-Vito,2008,2200,NOT SPECIFIED,Diesel,380000,Alb,used,manual,left-side drive,4000
+Vito,2008,2200,-,Diesel,380000,Alb,used,manual,left-side drive,4000
 Trafic,2013,1995,116,Diesel,210000,Alb,used,manual,left-side drive,6990
-Octavia,2012,1600,105,Diesel,NOT SPECIFIED,Albastru,used,manual,left-side drive,6000
+Octavia,2012,1600,105,Diesel,-,Albastru,used,manual,left-side drive,6000
 Seria 3,2012,1995,143,Diesel,250500,Albastru,used,manual,left-side drive,8900
 A7,2011,3000,245,Diesel,287000,Maro / Bej,used,auto,left-side drive,14600
 A4,2011,2000,180,Benzina,170180,Negru,used,manual,left-side drive,6500
-Grand Vitara,2001,2000,NOT SPECIFIED,Benzina,NOT SPECIFIED,Albastru,used,manual,left-side drive,4059
-Navara,NOT SPECIFIED,NOT SPECIFIED,133,Diesel,180000,Verde,used,manual,NOT SPECIFIED,5700
+Grand Vitara,2001,2000,-,Benzina,-,Albastru,used,manual,left-side drive,4059
+Navara,-,-,133,Diesel,180000,Verde,used,manual,-,5700
 Octavia,2016,1600,105,Diesel,179000,Gri,used,manual,left-side drive,12000
 Octavia,2014,1968,150,Diesel,243000,Argintiu,used,manual,left-side drive,7850
 Clasa C,2017,3000,350,Benzina,95000,Alb,used,auto,left-side drive,35000
-altul,2009,2000,140,Diesel,267123,Albastru,NOT SPECIFIED,manual,left-side drive,3499
-Tigra,2007,1400,90,NOT SPECIFIED,110000,Verde,used,manual,left-side drive,1350
+altul,2009,2000,140,Diesel,267123,Albastru,-,manual,left-side drive,3499
+Tigra,2007,1400,90,-,110000,Verde,used,manual,left-side drive,1350
 Seria 5,2010,2993,204,Diesel,185000,Negru,used,auto,left-side drive,11000
 Astra,2008,1900,110,Diesel,205000,Rosu,used,manual,left-side drive,2900
 C4,2011,1400,95,Benzina,115600,Albastru,used,manual,left-side drive,3100
-Megane,2012,1461,110,Diesel,247000,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,6450
+Megane,2012,1461,110,Diesel,247000,-,-,-,-,6450
 Megane,2011,1461,90,Diesel,193000,Gri,used,manual,left-side drive,4500
 Seria 5,2014,2999,381,Diesel,170000,Negru,used,auto,left-side drive,24500
 Leon,2012,1200,105,Benzina,231000,Negru,new,manual,left-side drive,4499
-Accent,2007,1399,97,Benzina,184000,Negru,used,NOT SPECIFIED,left-side drive,2700
+Accent,2007,1399,97,Benzina,184000,Negru,used,-,left-side drive,2700
 Seria 3,2015,1998,218,Diesel,265000,Alb,used,auto,left-side drive,14500
 Scenic,2005,1900,130,Diesel,220000,Negru,used,manual,left-side drive,2100
 Passat,2003,1900,131,Diesel,2,Argintiu,used,manual,left-side drive,1850
@@ -697,10 +697,10 @@ A4 Allroad,2018,1968,190,Diesel,199000,Gri,used,auto,left-side drive,19250
 A4,2015,2000,190,Diesel,194000,Negru,used,auto,left-side drive,12700
 Seria 3,2007,2000,122,Diesel,293500,Gri,used,manual,left-side drive,4500
 C-HR,2021,1798,122,Hibrid,12000,Gri,used,auto,left-side drive,26950
-Ibiza,2011,1200,80,Diesel,NOT SPECIFIED,Negru,used,manual,left-side drive,3900
-Mondeo,2008,1753,92,Diesel,NOT SPECIFIED,NOT SPECIFIED,used,manual,left-side drive,3300
-Seria RX,NOT SPECIFIED,3456,263,Hibrid,59000,Negru,used,auto,left-side drive,53000
-Golf,2000,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,used,manual,left-side drive,1100
+Ibiza,2011,1200,80,Diesel,-,Negru,used,manual,left-side drive,3900
+Mondeo,2008,1753,92,Diesel,-,-,used,manual,left-side drive,3300
+Seria RX,-,3456,263,Hibrid,59000,Negru,used,auto,left-side drive,53000
+Golf,2000,-,-,-,-,-,used,manual,left-side drive,1100
 Zafira,2010,1700,125,Diesel,268000,Negru,used,manual,left-side drive,4000
 Leon,2012,1200,105,Benzina,231000,Negru,new,manual,left-side drive,4499
 Clasa ML,2008,3000,190,Diesel,283000,Negru,used,auto,left-side drive,9450
@@ -712,78 +712,78 @@ A4,2009,1800,120,Benzina,206000,Negru,used,manual,left-side drive,6250
 Clasa C,2017,3000,350,Benzina,95000,Alb,used,auto,left-side drive,35000
 Caddy,2017,1998,102,Diesel,119000,Alta culoare,used,manual,left-side drive,11500
 Passat,2016,2000,150,Diesel,256000,Albastru,used,auto,left-side drive,14850
-Logan,2014,1500,75,Diesel,198000,Gri,used,NOT SPECIFIED,NOT SPECIFIED,4750
+Logan,2014,1500,75,Diesel,198000,Gri,used,-,-,4750
 Clasa C,2015,2143,170,Diesel,188000,Gri,used,auto,left-side drive,12000
 Passat,2003,1896,101,Diesel,255847,Negru,used,manual,left-side drive,2000
 A6,2008,2700,180,Diesel,363000,Negru,used,auto,left-side drive,4000
-Astra,2007,2000,110,Diesel,169349,NOT SPECIFIED,used,manual,left-side drive,2450
-S80,2005,2400,170,Diesel,279859,NOT SPECIFIED,used,manual,left-side drive,2500
-Grand Espace,2004,1995,130,Benzina,314316,NOT SPECIFIED,used,manual,left-side drive,1900
+Astra,2007,2000,110,Diesel,169349,-,used,manual,left-side drive,2450
+S80,2005,2400,170,Diesel,279859,-,used,manual,left-side drive,2500
+Grand Espace,2004,1995,130,Benzina,314316,-,used,manual,left-side drive,1900
 altul,2021,3000,245,Diesel,59000,Negru,new,auto,left-side drive,54900
 Tiguan,2021,1968,150,Diesel,160000,Alb,used,auto,left-side drive,26250
 Passat,2014,1968,143,Diesel,220000,Negru,used,auto,left-side drive,8600
-Clasa C,2002,2148,122,Diesel,NOT SPECIFIED,NOT SPECIFIED,used,manual,left-side drive,2050
-A8,2006,3000,245,Diesel,287902,NOT SPECIFIED,used,auto,left-side drive,5400
+Clasa C,2002,2148,122,Diesel,-,-,used,manual,left-side drive,2050
+A8,2006,3000,245,Diesel,287902,-,used,auto,left-side drive,5400
 Lybra,1999,1747,130,Benzina,1950000,Gri,used,manual,left-side drive,1200
 A6,2012,2000,177,Diesel,180000,Gri,new,auto,left-side drive,11800
-Golf,2017,1600,110,Diesel,259700,Gri,used,manual,NOT SPECIFIED,9990
+Golf,2017,1600,110,Diesel,259700,Gri,used,manual,-,9990
 80,1992,2000,115,Benzina,250000,Argintiu,used,manual,left-side drive,1100
 Seria 1,2008,2000,143,Diesel,192512,Gri,used,manual,left-side drive,5490
 Qashqai+2,2011,1500,110,Diesel,221007,Albastru,used,manual,left-side drive,6350
-Golf Plus,2010,1398,NOT SPECIFIED,Benzina,1710000,Gri,used,manual,left-side drive,5490
+Golf Plus,2010,1398,-,Benzina,1710000,Gri,used,manual,left-side drive,5490
 Sportage,2014,1685,116,Diesel,137000,Alta culoare,used,manual,left-side drive,13200
-Terracan,NOT SPECIFIED,3000,NOT SPECIFIED,Diesel,NOT SPECIFIED,Negru,used,manual,left-side drive,5000
-Clasa C,NOT SPECIFIED,2000,180,Diesel,NOT SPECIFIED,Gri,used,manual,left-side drive,2800
+Terracan,-,3000,-,Diesel,-,Negru,used,manual,left-side drive,5000
+Clasa C,-,2000,180,Diesel,-,Gri,used,manual,left-side drive,2800
 Polo,2012,1199,75,Diesel,221000,Alb,used,manual,left-side drive,5500
 Logan,2009,1600,105,Benzina,214000,Gri,used,manual,left-side drive,2400
 A8,2007,3000,235,Diesel,3,Negru,used,manual,left-side drive,6000
 Trafic,2007,1900,101,Diesel,199000,Alb,used,manual,left-side drive,5300
 Passat,2016,2000,150,Diesel,256000,Albastru,used,auto,left-side drive,14850
 Seria 3,2009,2000,140,Diesel,260000,Argintiu,used,auto,left-side drive,4800
-Stilo,2002,1300,NOT SPECIFIED,Benzina,209900,Verde,used,manual,left-side drive,699
+Stilo,2002,1300,-,Benzina,209900,Verde,used,manual,left-side drive,699
 Octavia,2013,1600,105,Diesel,207500,Alb,used,manual,left-side drive,7800
 Seria 1,2008,1997,143,Diesel,283000,Gri,used,manual,left-side drive,4400
 C4,2011,1400,95,Benzina,115600,Albastru,used,manual,left-side drive,3100
 V40,2015,1969,120,Diesel,168900,Negru,used,manual,left-side drive,10800
 A3,2018,1600,116,Diesel,188000,Albastru,used,auto,left-side drive,17900
-Corsa,2003,1000,58,Benzina,NOT SPECIFIED,Negru,used,manual,left-side drive,900
+Corsa,2003,1000,58,Benzina,-,Negru,used,manual,left-side drive,900
 A6,2012,3000,204,Diesel,300000,Negru,used,auto,left-side drive,12500
 Focus,2012,1600,116,Diesel,183000,Maro / Bej,used,manual,left-side drive,7500
-Axel,1988,1129,NOT SPECIFIED,Benzina,NOT SPECIFIED,NOT SPECIFIED,used,NOT SPECIFIED,NOT SPECIFIED,609
+Axel,1988,1129,-,Benzina,-,-,used,-,-,609
 Q7,2009,3000,245,Diesel,150000,Negru,used,auto,right-side drive,4999
-Clasa B,2010,2000,NOT SPECIFIED,Benzina,214000,Argintiu,used,manual,left-side drive,3999
+Clasa B,2010,2000,-,Benzina,214000,Argintiu,used,manual,left-side drive,3999
 Land Cruiser,2005,3000,163,Diesel,348991,Argintiu,used,auto,left-side drive,8250
 Octavia,2007,1998,140,Diesel,218000,Negru,used,auto,left-side drive,4450
 Seria GS,2012,3500,345,Hibrid,205000,Gri,used,auto,left-side drive,19900
-Focus,2011,1598,101,Benzina,178000,Argintiu,NOT SPECIFIED,manual,NOT SPECIFIED,4990
+Focus,2011,1598,101,Benzina,178000,Argintiu,-,manual,-,4990
 RAV-4,2008,2231,130,Diesel,250000,Gri,used,manual,left-side drive,5650
-Land Cruiser,1995,3000,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,Verde,used,manual,left-side drive,9500
+Land Cruiser,1995,3000,-,-,-,Verde,used,manual,left-side drive,9500
 Golf,2010,1595,105,Diesel,164000,Negru,used,manual,left-side drive,5480
 Forfour,2005,1300,95,Benzina,197821,Gri,used,manual,left-side drive,2500
 TT,2009,1985,230,Diesel,314500,Negru,used,manual,left-side drive,8150
 altul,2021,3000,245,Diesel,59000,Negru,new,auto,left-side drive,54900
 Clasa C,2018,2000,150,Diesel,106511,Argintiu,used,auto,left-side drive,29999
-Swift,2008,1300,NOT SPECIFIED,Diesel,NOT SPECIFIED,Gri,used,manual,left-side drive,2200
+Swift,2008,1300,-,Diesel,-,Gri,used,manual,left-side drive,2200
 Caddy,2017,1998,102,Diesel,119000,Alta culoare,used,manual,left-side drive,11500
-Duster,2015,1598,NOT SPECIFIED,Benzina,99000,Alb,used,manual,left-side drive,9780
-Punto,2000,NOT SPECIFIED,NOT SPECIFIED,Benzina,NOT SPECIFIED,Albastru,used,manual,left-side drive,548
+Duster,2015,1598,-,Benzina,99000,Alb,used,manual,left-side drive,9780
+Punto,2000,-,-,Benzina,-,Albastru,used,manual,left-side drive,548
 V50,2009,1997,136,Diesel,218000,Rosu,new,manual,left-side drive,3799
 Seria 1,2008,2000,143,Diesel,192512,Gri,used,manual,left-side drive,5490
 Clasa C,2017,3000,350,Benzina,95000,Alb,used,auto,left-side drive,35000
 Scenic,2006,1870,130,Diesel,220000,Gri,used,manual,left-side drive,2250
 Golf,2010,1400,122,Benzina,204000,Rosu,used,manual,left-side drive,5000
-A3,2007,NOT SPECIFIED,150,Benzina,NOT SPECIFIED,NOT SPECIFIED,used,manual,left-side drive,3800
+A3,2007,-,150,Benzina,-,-,used,manual,left-side drive,3800
 Clasa E,2003,2700,177,Diesel,354000,Gri,used,manual,left-side drive,3500
-Tiguan,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,Negru,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,8500
+Tiguan,-,-,-,-,-,Negru,-,-,-,8500
 Seria 1,2013,1995,116,Diesel,147000,Alb,used,manual,left-side drive,7350
 Focus,2008,1600,109,Diesel,253000,Negru,used,manual,left-side drive,4450
 Golf,2009,1968,140,Diesel,251000,Alb,used,auto,left-side drive,5950
 RAPID,2017,1200,90,Benzina,165213,Albastru,used,manual,left-side drive,8000
-A8,2017,3000,262,Diesel,175000,Negru,NOT SPECIFIED,auto,left-side drive,30500
+A8,2017,3000,262,Diesel,175000,Negru,-,auto,left-side drive,30500
 Touareg,2006,5000,316,Diesel,250000,Argintiu,used,auto,left-side drive,Schimb
 Golf,2018,1600,120,Diesel,184000,Negru,used,manual,left-side drive,11450
 Celica,1992,1600,107,Benzina,200000,Negru,used,manual,left-side drive,1600
-Seria 5,2007,2000,NOT SPECIFIED,Diesel,NOT SPECIFIED,Negru,used,auto,left-side drive,5300
+Seria 5,2007,2000,-,Diesel,-,Negru,used,auto,left-side drive,5300
 Avensis,2010,1789,140,Benzina,215004,Argintiu,used,manual,left-side drive,6290
 RAPID,2017,1422,90,Diesel,180500,Alb,used,manual,left-side drive,7050
 Octavia,2018,999,116,Benzina,110500,Albastru,used,manual,left-side drive,12250
@@ -792,37 +792,37 @@ Grand Cherokee,2007,2987,160,Diesel,208000,Negru,used,auto,left-side drive,5500
 Cayenne,2005,3200,300,GPL,300000,Alb,used,auto,left-side drive,3500
 A6,2007,2700,177,Diesel,200000,Negru,used,auto,left-side drive,5150
 Laguna,2015,1500,110,Diesel,314000,Gri,used,manual,left-side drive,6950
-Golf,2009,1998,110,Diesel,NOT SPECIFIED,Negru,used,manual,left-side drive,5100
+Golf,2009,1998,110,Diesel,-,Negru,used,manual,left-side drive,5100
 Clasa C,2008,2185,136,Diesel,294000,Gri,used,manual,left-side drive,5500
 Q7,2016,2967,272,Diesel,275000,Maro / Bej,used,auto,left-side drive,34500
 Golf,2009,1400,122,Benzina,179000,Rosu,new,manual,left-side drive,3999
 A4,2013,2000,141,Diesel,298000,Gri,used,manual,left-side drive,12500
-Clasa A,2005,NOT SPECIFIED,14,Benzina,NOT SPECIFIED,Negru,used,manual,left-side drive,1500
+Clasa A,2005,-,14,Benzina,-,Negru,used,manual,left-side drive,1500
 A7,2019,2967,286,Diesel,145000,Verde,used,auto,left-side drive,44500
 Focus,2006,1388,80,Benzina,155000,Albastru,used,manual,left-side drive,2200
 Caddy,2015,1600,102,Diesel,169850,Alb,used,manual,left-side drive,8900
 Mito,2011,1248,105,Diesel,245000,Gri,used,manual,left-side drive,4700
 Zafira,2010,1700,125,Diesel,207976,Negru,used,manual,left-side drive,4800
 A4,2011,2000,180,Benzina,170180,Negru,used,manual,left-side drive,6500
-A4,NOT SPECIFIED,2000,NOT SPECIFIED,Diesel,207000,Negru,used,manual,left-side drive,7950
+A4,-,2000,-,Diesel,207000,Negru,used,manual,left-side drive,7950
 Seria 5,2011,1995,184,Diesel,272700,Negru,used,auto,left-side drive,12499
-A6,2006,2000,140,Diesel,270000,NOT SPECIFIED,used,manual,left-side drive,5100
+A6,2006,2000,140,Diesel,270000,-,used,manual,left-side drive,5100
 A4,2015,2000,190,Diesel,194000,Negru,used,auto,left-side drive,12700
 Caddy,2017,1968,150,Diesel,214000,Alb,used,manual,left-side drive,14650
 Q7,2016,2967,272,Diesel,275000,Maro / Bej,used,auto,left-side drive,34500
 Bora,2004,1900,105,Diesel,287000,Verde,used,manual,left-side drive,3200
 A5,2015,2000,177,Diesel,280000,Alb,used,manual,left-side drive,1522
-Golf,NOT SPECIFIED,NOT SPECIFIED,150,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,manual,NOT SPECIFIED,1800
+Golf,-,-,150,-,-,-,-,manual,-,1800
 Golf,2011,1400,122,Benzina,206200,Gri,used,manual,left-side drive,6050
 A8,2018,2995,340,Hibrid,78000,Argintiu,used,auto,left-side drive,53900
 Seria 3,2014,1997,163,Diesel,228000,Gri,new,auto,left-side drive,11000
 Passat,2014,1968,143,Diesel,220000,Negru,used,auto,left-side drive,8600
 Focus,2007,1598,90,Diesel,270000,Gri,used,manual,left-side drive,2100
-Zafira,2001,1800,NOT SPECIFIED,Benzina,255000,Albastru,used,manual,left-side drive,1100
-Clasa C,2009,NOT SPECIFIED,204,NOT SPECIFIED,286000,Negru,used,auto,left-side drive,8700
-Polo,2005,1195,NOT SPECIFIED,Benzina,248000,Alta culoare,used,manual,left-side drive,850
+Zafira,2001,1800,-,Benzina,255000,Albastru,used,manual,left-side drive,1100
+Clasa C,2009,-,204,-,286000,Negru,used,auto,left-side drive,8700
+Polo,2005,1195,-,Benzina,248000,Alta culoare,used,manual,left-side drive,850
 C4 Picasso,2012,1589,130,Diesel,220000,Negru,used,manual,left-side drive,3999
-Arkana,2021,1598,145,Hibrid,18200,NOT SPECIFIED,used,auto,left-side drive,31990
+Arkana,2021,1598,145,Hibrid,18200,-,used,auto,left-side drive,31990
 Courier,2018,1500,75,Diesel,99002,Alb,used,manual,left-side drive,8150
 Passat,2020,1968,190,Diesel,212000,Negru,used,auto,left-side drive,18450
 X3,2015,2000,190,Diesel,263000,Negru,used,auto,left-side drive,15500
@@ -832,50 +832,50 @@ Golf,2003,1598,105,Benzina,187000,Gri,used,manual,left-side drive,1015
 A4,2018,1968,190,Diesel,178500,Maro / Bej,used,auto,left-side drive,19590
 Focus,2006,1598,90,Diesel,248000,Albastru,used,manual,left-side drive,2200
 RAV-4,2008,2197,177,Diesel,317000,Gri,used,manual,left-side drive,3900
-Tiguan,2014,NOT SPECIFIED,NOT SPECIFIED,Diesel,106000,NOT SPECIFIED,NOT SPECIFIED,auto,left-side drive,15950
+Tiguan,2014,-,-,Diesel,106000,-,-,auto,left-side drive,15950
 Laguna,2015,1461,110,Diesel,170000,Gri,used,manual,left-side drive,8090
 altul,2021,3000,245,Diesel,59000,Negru,new,auto,left-side drive,54900
 A3,2010,1990,140,Diesel,280000,Gri,used,manual,left-side drive,6780
-Focus,2002,1800,115,Diesel,NOT SPECIFIED,Gri,used,manual,left-side drive,1400
-Golf Plus,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,3000
-Pajero Pinin,2001,1999,130,Benzina,NOT SPECIFIED,NOT SPECIFIED,used,manual,right-side drive,2200
-Passat,NOT SPECIFIED,NOT SPECIFIED,310,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,manual,NOT SPECIFIED,1150
-X3,2012,2998,258,Diesel,NOT SPECIFIED,Gri,NOT SPECIFIED,auto,left-side drive,11490
+Focus,2002,1800,115,Diesel,-,Gri,used,manual,left-side drive,1400
+Golf Plus,-,-,-,-,-,-,-,-,-,3000
+Pajero Pinin,2001,1999,130,Benzina,-,-,used,manual,right-side drive,2200
+Passat,-,-,310,-,-,-,-,manual,-,1150
+X3,2012,2998,258,Diesel,-,Gri,-,auto,left-side drive,11490
 A6,2016,1968,190,Diesel,210700,Rosu,used,auto,left-side drive,23900
-CX-5,2014,2200,150,Diesel,202123,Alb,used,manual,NOT SPECIFIED,9950
-1310,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,Benzina,NOT SPECIFIED,Alb,used,NOT SPECIFIED,NOT SPECIFIED,609
+CX-5,2014,2200,150,Diesel,202123,Alb,used,manual,-,9950
+1310,-,-,-,Benzina,-,Alb,used,-,-,609
 Tucson,2018,1992,177,Diesel,150500,Argintiu,used,auto,left-side drive,22500
 X3,2015,2000,190,Diesel,263000,Negru,used,auto,left-side drive,15500
 V40,2015,1969,120,Diesel,168900,Negru,used,manual,left-side drive,10800
 Stilo,2005,1900,140,Diesel,400000,Gri,used,manual,left-side drive,710
 A6,2012,2000,177,Diesel,286679,Gri,used,auto,left-side drive,7850
 Polo,2010,1598,75,Diesel,207000,Gri,used,manual,left-side drive,4500
-A3,2012,NOT SPECIFIED,NOT SPECIFIED,Diesel,230000,Alb,used,manual,left-side drive,7950
+A3,2012,-,-,Diesel,230000,Alb,used,manual,left-side drive,7950
 Astra,1993,1399,75,Benzina,180000,Gri,used,manual,left-side drive,1502
 Montero,2002,3200,165,Diesel,213000,Albastru,used,manual,left-side drive,6500
 Golf,2015,1598,105,Diesel,298904,Gri,used,manual,left-side drive,9200
 Courier,2018,1500,75,Diesel,99002,Alb,used,manual,left-side drive,8150
 X3 M,2012,2999,265,Diesel,220000,Alta culoare,used,auto,left-side drive,14650
 V50,2009,1997,136,Diesel,218000,Rosu,new,manual,left-side drive,3799
-4,2004,1600,80,Benzina,70000,Verde,used,NOT SPECIFIED,left-side drive,1999
-L200,2008,2800,150,Diesel,225000,NOT SPECIFIED,used,manual,left-side drive,9900
+4,2004,1600,80,Benzina,70000,Verde,used,-,left-side drive,1999
+L200,2008,2800,150,Diesel,225000,-,used,manual,left-side drive,9900
 Outlander,2014,1988,200,Hibrid,270000,Negru,used,auto,left-side drive,12000
 Trooper,2000,2998,163,Diesel,290000,Verde,used,manual,left-side drive,3300
 308,2010,1600,122,Benzina,184000,Gri,used,manual,left-side drive,3990
-Cooper,2003,1600,NOT SPECIFIED,Benzina,183000,Rosu,used,manual,left-side drive,2800
+Cooper,2003,1600,-,Benzina,183000,Rosu,used,manual,left-side drive,2800
 Passat,2011,2000,140,Diesel,305000,Albastru,used,auto,left-side drive,7100
 2,2012,1349,84,Benzina,172000,Alb,new,manual,left-side drive,4399
 Qashqai,2014,1461,110,Diesel,219000,Negru,used,manual,left-side drive,9350
 Vivaro,2013,2000,90,Diesel,238000,Alb,used,manual,left-side drive,6200
-Avensis,2011,1798,147,Benzina,143000,Gri,NOT SPECIFIED,NOT SPECIFIED,NOT SPECIFIED,7500
+Avensis,2011,1798,147,Benzina,143000,Gri,-,-,-,7500
 Passat,2008,2000,140,Diesel,280000,Negru,used,auto,left-side drive,5000
 508,2012,1600,156,Benzina,168000,Negru,used,manual,left-side drive,6500
 XC 60,2010,2400,163,Diesel,240000,Gri,used,auto,left-side drive,10800
 A8,2015,2993,262,Diesel,142000,Maro / Bej,used,auto,left-side drive,32000
 Seria 3,2015,1998,218,Diesel,201000,Maro / Bej,used,auto,left-side drive,16900
 X5,2009,2993,235,Diesel,340000,Gri,used,auto,left-side drive,10800
-Touran,2012,1600,NOT SPECIFIED,Diesel,180000,Alb,used,manual,left-side drive,7600
-Tourneo Custom,2015,2198,114,Diesel,NOT SPECIFIED,NOT SPECIFIED,used,manual,left-side drive,17500
+Touran,2012,1600,-,Diesel,180000,Alb,used,manual,left-side drive,7600
+Tourneo Custom,2015,2198,114,Diesel,-,-,used,manual,left-side drive,17500
 Passat,2007,2000,140,Diesel,246,Albastru,used,manual,left-side drive,4000
 Passat,2012,1600,110,Diesel,248000,Alb,used,manual,left-side drive,5300
 Clasa A,2007,1830,109,Diesel,116000,Gri,used,manual,left-side drive,3600
@@ -892,24 +892,24 @@ Zafira,2007,1910,101,Diesel,248000,Albastru,used,manual,left-side drive,2700
 Seria 3,2009,2000,177,Diesel,235000,Alta culoare,used,manual,left-side drive,8000
 Passat,2007,2000,140,Diesel,258221,Gri,used,auto,left-side drive,3200
 Fabia,2011,1199,75,Diesel,215000,Negru,used,manual,left-side drive,3450
-Superb,2015,1995,140,Diesel,NOT SPECIFIED,Argintiu,used,auto,left-side drive,11000
+Superb,2015,1995,140,Diesel,-,Argintiu,used,auto,left-side drive,11000
 Tiguan,2015,1986,177,Diesel,145000,Gri,used,manual,left-side drive,14450
 Octavia,2018,1968,184,Diesel,192006,Albastru,used,auto,left-side drive,15350
 Seria 5,2014,2999,381,Diesel,170000,Negru,used,auto,left-side drive,24500
 Passat,2016,1598,120,Diesel,230081,Negru,used,manual,left-side drive,10750
-i20,2012,1400,90,Benzina,91000,Rosu,used,NOT SPECIFIED,left-side drive,4250
-Discovery,2000,2500,160,Diesel,229886,Maro / Bej,NOT SPECIFIED,auto,left-side drive,15500
-X3,2012,2000,184,NOT SPECIFIED,275000,Albastru,used,manual,left-side drive,11500
+i20,2012,1400,90,Benzina,91000,Rosu,used,-,left-side drive,4250
+Discovery,2000,2500,160,Diesel,229886,Maro / Bej,-,auto,left-side drive,15500
+X3,2012,2000,184,-,275000,Albastru,used,manual,left-side drive,11500
 Golf,2004,2000,140,Diesel,294000,Negru,used,manual,left-side drive,3400
 A4,2011,1968,143,Diesel,229221,Negru,used,manual,left-side drive,7500
 Octavia,2018,2000,150,Diesel,200000,Negru,used,auto,left-side drive,11650
 Caddy,2010,1896,110,Diesel,276,Argintiu,used,manual,left-side drive,6690
 C4,2006,1560,80,Diesel,204210,Gri,used,manual,left-side drive,1300
 Master,2016,2295,125,Diesel,111000,Alb,used,manual,left-side drive,15500
-Golf Plus,2010,1398,NOT SPECIFIED,Benzina,1710000,Gri,used,manual,left-side drive,5490
+Golf Plus,2010,1398,-,Benzina,1710000,Gri,used,manual,left-side drive,5490
 308,2016,1600,120,Diesel,202001,Negru,used,manual,left-side drive,6250
 2,2012,1349,84,Benzina,172000,Alb,new,manual,left-side drive,4399
-Seria 3,2016,2000,190,Diesel,190830,NOT SPECIFIED,used,manual,left-side drive,14500
+Seria 3,2016,2000,190,Diesel,190830,-,used,manual,left-side drive,14500
 A6,2013,3000,313,Diesel,253000,Gri,used,auto,left-side drive,11500
 Astra,2000,1600,101,Benzina,278564,Albastru,used,manual,left-side drive,893
 Ranger,2020,1996,170,Diesel,45500,Alb,used,manual,left-side drive,28000
