@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 f = open('output.csv', 'r', encoding='utf-8')
 
-header = "model,production year,motor capacity,power,fuel,km driven,color,state,gearbox,driver hand,price"
+header = "company,model,production year,motor capacity,power,fuel,km driven,color,state,gearbox,driver hand,price"
 keywords = ["Model:", "An de fabricatie:", "Capacitate motor:", "Putere:", "Combustibil:", "Rulaj:", "Culoare:", "Stare:", "Cutie de viteze:", "Volan:"]
 
 
@@ -53,6 +53,13 @@ def getDataOlx(page):
                 break
 
         extracted_data += value + ','
+
+    try:
+        company = page.findAll("li", {"data-testid": "breadcrumb-item"})[3].text
+    except:
+        company = "-"
+
+    extracted_data = company + ',' + extracted_data
 
     print(extracted_data)
     return extracted_data
