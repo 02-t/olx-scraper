@@ -1,6 +1,5 @@
 import requests
 import time
-import random
 from bs4 import BeautifulSoup
 
 f = open('output.csv', 'r', encoding='utf-8')
@@ -65,10 +64,10 @@ def getDataFromUrl(page_url, price):
     time_interval = 0
 
     while data.split(',')[0] == "NOT SPECIFIED":
-        if time_interval > 5:
+        if time_interval > 1:
             return ''
         time.sleep(time_interval)
-        time_interval += 5
+        time_interval += 1  # cooldown to add in case your request got blocked
         response = requests.get(page_url)
         soup = BeautifulSoup(response.text, "html.parser")
         data = getDataOlx(soup)
@@ -76,7 +75,8 @@ def getDataFromUrl(page_url, price):
     return '\n' + data + parseValue(price)
 
 
-if __name__ == '__main__':
+def startScript():
+    global header
     for line in f:
         line = line.split(',')
         url = line[-1].strip()
@@ -88,5 +88,4 @@ if __name__ == '__main__':
 
         header += getDataFromUrl(url, price)
         writeToFile(header)
-        time.sleep(random.uniform(0.5, 3))
 
